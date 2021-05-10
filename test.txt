@@ -127,6 +127,9 @@ is	O
 advised	O
 for	O
 COVID-19	O
+AAA	O
+BB	O
+CCC	O
 patients	O
 .	O
 
