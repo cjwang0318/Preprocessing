@@ -1,135 +1,842 @@
-By	O
-inhibiting	O
-IL-1α	B
-AAA	I
-BBB	I
-/	O
-IL-1β	B
-competitively	O
-from	O
-binding	O
-to	O
-the	O
-IL-1	B
-type-	O
-I	B
-receptor	I
-,	O
-anakinra	O
-,	O
-neutralizes	O
-the	O
-activity	O
-that	O
-pertains	O
-to	O
-these	O
-key	O
-mediators	O
-of	O
-autoinflammatory	O
-and/or	O
-immune	O
-processes	O
-.	O
-
-Clinical	O
-outcomes	O
-of	O
-those	O
-who	O
-use	O
-an	O
-ACE	B
-inhibitor	O
-(	O
-ACEI	O
-)	O
-or	O
-angiotensin	B
-II	I
-type-	O
-I	B
-receptor	I
-blocker	O
-(	O
-ARB	O
-)	O
-were	O
-comparable	O
-with	O
-those	O
-of	O
-patients	O
-who	O
-do	O
-not	O
-use	O
-ACEI/ARB	O
-among	O
-COVID-19	O
-patients	O
-with	O
-diabetes	O
-and	O
-hypertension	O
-.	O
-
-Patients	O
-taking	O
-angiotensin-converting	B
-enzyme	I
-inhibitors/	O
-angiotensin	B
-II	I
-type	O
-I	B
-receptor	I
-blockers	O
-:	O
-higher	O
-risks	O
-of	O
-severe	O
-acute	O
-respiratory	O
-syndrome	O
-coronavirus	O
-2	O
-infection	O
-but	O
-milder	O
-clinical	O
-manifestations	O
-?	O
-
-Avoiding	O
-the	O
-prescription	O
-of	O
-non-steroidal	O
-anti-inflammatory	O
-drugs	O
-,	O
-angiotensin	B
-converting	I
-enzyme	I
-inhibitors	O
-,	O
-or	O
-angiotensin	B
-II	I
-type	O
-I	B
-receptor	I
-blockers	O
-is	O
-advised	O
-for	O
-COVID-19	O
-AAA	O
-BB	O
-CCC	O
-patients	O
-.	O
-
+Based on the importance of protease enzymes in functioning some viruses particularly coronaviridae, we have carried out an in silico investigation on the biologically important, yet unmapped phenomenon of activity and internal dynamics of @DISEASE$ @GENE$ (Mpro) via applying finite-temperature all-atom molecular dynamics simulations.	1
+We determined factors independently associated with computed tomography pulmonary angiography (@GENE$)-confirmed pulmonary embolism (PE) in hospitalised severe @DISEASE$ patients.	1
+Several theories related to immunosenescence, vaccination and trained immunity, @DISEASE$, @GENE$ maturation and expression, viral exposure, overall health and smoking have been proposed in recent literature.	1
+It Always Correct to Continue @GENE$ Signaling Inhibitors in the @DISEASE$ Era?	1
+Although multiple drugs show promise in the treatment of @DISEASE$ via either inhibiting viral replication or preventing fusion of the virus to the @GENE$ receptors, further investigation is still warranted and necessary before the admission of any type of pharmaceutical agent.	1
+Sensitivities for ELISA anti @DISEASE$ IgG and @GENE$ were 81.5 % and 93.1 % and specificities 100 % and 80.6 %, respectively.	1
+@GENE$-angiotensin system inhibition in @DISEASE$ patients: Friend or foe?	1
+We noted that mortality in sham-treated mice corresponded with @GENE$+ T cell @DISEASE$ on days 11-12 after virus challenge, after the viral burden had declined.	1
+@DISEASE$ and @GENE$: The biology and clinical data settling the ARB and ACEI controversy.	1
+Predictions are available for download from https://www.bcgsc.ca/downloads/btl/@DISEASE$/@GENE$.	1
+Molecular dynamics simulation of docking structures of @DISEASE$ @GENE$ and HIV protease inhibitors.	1
+In this study, we utilized the structural information of co-crystallized @DISEASE$ @GENE$ for the structure-guided drug discovery of high-affinity inhibitors from the PubChem database.	1
+Two low-passage (P) strains of @DISEASE$ (@GENE$ : P4 and Munich : P1) were cultured twice in Vero E6 cells and characterized virologically.	1
+Class A @GENE$ Antagonist Famotidine as a Therapeutic Alternative Against @DISEASE$:	1
+@DISEASE$ has been detected in the @GENE$ of some patients.	1
+Broad-scale in vitro characterization of a recombinant vaccine candidate demonstrated efficient co-expression of the hemagglutinin-neuraminidase (HN) of AOaV-1 and @GENE$ of @DISEASE$, and comparable replication kinetics were observed in a cell culture model.	1
+Here we report the room temperature X-ray structure of unliganded @DISEASE$ 3CL @GENE$, revealing the ligand-free structure of the active site and the conformation of the catalytic site cavity at near-physiological temperature.	1
+In support of the hypothesis that the complement system along with neutrophils and platelets contributes to @DISEASE$, the authors presented empirical evidence showing that treatment with the complement inhibitor, compstatin Cp-40, inhibited the expression of @GENE$ in neutrophils.	1
+In silico study the inhibition of @GENE$ of @DISEASE$ by Ammoides verticillata components harvested from Western Algeria.	1
+To add some confusion, doubts were raised about its potential deleterious outcome in @DISEASE$ patients, due to its effect on lymphocyte counts and @GENE$ concentrations.	1
+Regardless, the availability of the validated PHEV @GENE$-linked immunosorbent assay (ELISA) provides the means for swine producers to detect and monitor PHEV @DISEASE$, confirm prior exposure to the virus, and to evaluate the immune status of breeding herds.	1
+In this study, we built a full-length @DISEASE$ S protein with human @GENE$ complex by computational methods.	1
+As such, we postulate on the biological plausibility of interactions between dietary fat and/or resveratrol and @GENE$ gene variations in the modulation of @DISEASE$ illness severity.	1
+We argue that dwelling in the temporality of delay can be understood as an act of care if delaying allows us to pay care-@GENE$ attention to @DISEASE$.	1
+Here, we perform structural modeling of the @DISEASE$ @GENE$.	1
+Elevated @GENE$ and severe @DISEASE$: A meta-analysis.	1
+Elevated @GENE$-ultra, CK-MB, and NT-proBNP were independent biomarkers of the mortality in @DISEASE$ patients.	1
+The results of molecular dynamic (MD) simulation of cinanserin-optimized compounds CM02, CM06, and CM07 revealed that CM02 and CM06 fit well into the active site of @DISEASE$ @GENE$ [Protein Data Bank (PDB) accession number 6LU7] and formed strong and stable interactions with the key residues, Ser-144, His-163, and Glu-166.	1
+We determined the sensitivity and specificity of the RT-@GENE$ assay for detecting @DISEASE$ viral RNA.	1
+The questionnaire comprised the Korean version of the Multidimensional Calling Measure to assess occupational calling, the Psychosocial Well-being Index-short form for psychological health, and the Control, Autonomy, Self-realization, and Pleasure (@GENE$-19) scale for @DISEASE$.	1
+Alkaline phosphatase (ALP) peak values were correlated with risk of death (OR 1.007 [95% CI 1.002-1.01], P = 0.005) along with age, multiple comorbidities, @DISEASE$ , ICU admission and @GENE$.	1
+@GENE$ as a valuable marker for patients with @DISEASE$.	1
+Iron metabolism biomarkers and hemoglobin can contribute to risk stratification of patients, as initial @DISEASE$ is associated with increased mortality, whereas alterations of iron homeostasis with a higher ferritin/@GENE$ ratio reflect more advanced inflammation and predicts subsequent insufficient pulmonary oxygenation with the need for ICU admission and mechanical ventilation.	1
+Four @DISEASE$ Genome Sequences from Late April in Stockholm, Sweden, Reveal a Rare Mutation in the @GENE$.	1
+@GENE$ was also an independent discriminator of severe/@DISEASE$ on admission (AUC 0.783, z=10.69, p&lt;0.001).	1
+Subcutaneous administration of @GENE$a for @DISEASE$: A non-controlled prospective trial.	1
+@GENE$ as a potential biomarker of @DISEASE$ progression.	1
+@GENE$ Receptors - Impact for @DISEASE$ Severity.	1
+This article provides a comprehensive overview of available scientific knowledge about the role of @GENE$ in the pathogenesis of @DISEASE$, which is available up to current day.	1
+A genomic site targeted by the highly abundant @GENE$-5p, overexpressed in patients with @DISEASE$, is lost by a conserved mutation.	1
+Arg130His in @GENE$) may have predictive value for inter-individual differences in the response to the @DISEASE$.	1
+@GENE$ treatment in @DISEASE$ patients: more risk than benefit?	1
+Anti-@GENE$ agents from among the biological therapies appear to be slightly risky in terms of susceptibility to @DISEASE$.	1
+For respiratory droplets, @DISEASE$ antibodies from 3 of 10 naive @GENE$ mice showed seropositivity 14 days after introduction into the same cage with 3 infected-hACE2 mice, separated by grids.	1
+@GENE$ variants may underlie interindividual variability and susceptibility to @DISEASE$ in the Italian population.	1
+Immunohistochemistry staining for @DISEASE$ @GENE$ was negative.	1
+@GENE$ is an androgen-responsive gene and its fusion represents one of the most frequent alterations in @DISEASE$.	1
+To better understand the interplay between @DISEASE$ and @GENE$, we performed computational alanine scanning mutagenesis on the   hotspot   residues at protein-protein interfaces using relative free energy calculations.	1
+The @DISEASE$ is a single-stranded RNA virus composed of 16 non-structural proteins (@GENE$ 1-16) with specific roles in the replication of coronaviruses.	1
+Mortality and Pre-Hospitalization use of @GENE$-Angiotensin System Inhibitors in Hypertensive @DISEASE$ Patients.	1
+@DISEASE$ contains the @GENE$ cleavage PRRA motif in the S1/S2 region, which enhances viral pathogenicity but is absent in closely related bat and pangolin coronaviruses.	1
+Trends observed by serial laboratory measurements during hospitalization including progressive decrease of lymphocyte count, @DISEASE$, elevated @GENE$, procalcitonin, increased liver enzymes, decreased renal function, and coagulation derangements were more common in critically ill patient groups and associated with a high incidence of clinical complications.	1
+Insights into the inhibitory potential of selective phytochemicals against @GENE$ of @DISEASE$: a computer-aided study.	1
+Similarities between @DISEASE$ and anti-@GENE$ syndrome: what can we learn for better care?	1
+Collectively, this work presents a versatile platform for rapid antibody isolation and identifies promising therapeutic anti-@DISEASE$ antibodies as well as the diverse immogneic profile of the @GENE$.	1
+Given the immense and immediate practical medical importance of remote intermittent clinical pulse oximetry to both @DISEASE$ management and the global ability to respond to respiratory viral pandemics, the smartphone sensor with @GENE$ should be prioritized and fast tracked for FDA/ ISO approval to allow clinical use.	1
+@GENE$ levels after tocilizumab administration in transplant recipients with @DISEASE$.	1
+We show that a single intramuscular injection of the LION/repRNA-CoV2S vaccine in mice elicited robust production of anti-@DISEASE$ @GENE$ IgG antibody isotypes indicative of a type 1 T helper cell response.	1
+Measuring the extent of stress and fear among Registered Nurses in @GENE$ during the @DISEASE$ Outbreak.	1
+We and others propose @GENE$ as a possible cellular target for the treatment of @DISEASE$.	1
+This observation may reflect a possible clinical benefit regarding early intervention with @GENE$-modulatory therapies for @DISEASE$ and that CRP could be a potential biomarker of response to treatment.	1
+Human @GENE$ (HSA) is an acute phase reactant with antioxidant property; however, its behavior and impact on survival in @DISEASE$ patients have never been studied so far.	1
+Cardiac MRI of Children with Multisystem Inflammatory Syndrome (@GENE$-C) Associated with @DISEASE$: Case Series.	1
+Recovery from @DISEASE$ is associated with serum @GENE$ restoration.	1
+Class A @GENE$ Antagonist Famotidine as a Therapeutic Alternative Against @DISEASE$:	1
+Development of a simple, interpretable and easily transferable QSAR model for quick screening antiviral databases in search of novel @GENE$ (3CLpro) enzyme inhibitors against @DISEASE$ diseases.	1
+Nevertheless, all the IFNs limited @DISEASE$ replication, suggesting that their antiviral actions can counterbalance increased @GENE$.	1
+@GENE$, a cleavage enzyme, is increasingly recognized in the pathogenesis of @DISEASE$.	1
+@DISEASE$: Social distancing, @GENE$ 2 receptors, protease inhibitors and beyond?	1
+@GENE$ levels are reduced in the lungs from patients with @DISEASE$, and in the lungs of mice exposed to chronic cigarette smoke.	1
+The two cases with severe illness had profound @DISEASE$ with markedly elevated @GENE$, procalcitonin, and ferritin.	1
+Specimens were collected for @DISEASE$ analysis at the time of admission to the @GENE$ and patients were monitored for subsequent symptom development over the next 14 days.	1
+Another way, discussed here, to capture @DISEASE$, as an adjunct or alternative, would be to use @GENE$+-small extracellular vesicles (sEVs).	1
+Treatment of @DISEASE$ included hydroxychloroquine (18 patients [78%]), high-dose corticosteroids (8 patients [47%]), and @GENE$ antagonists (6 patients [26%]).	1
+Hot spots (clusters of high @DISEASE$ rate @GENE$ code tabulation areas) had similarities as well, such as lower rates of college graduates and higher proportions of people of color.	1
+and Aims; To investigate the association between use of @GENE$ inhibitor (ACEI)/angiotensin-receptor blocker (ARB) and outcomes of hypertensive @DISEASE$ patients, a systematic review and meta-analysis were performed.	1
+@GENE$ has important metabolic and immune functions and is a target for commonly used therapies in @DISEASE$.	1
+When @GENE$-highly expressed tissues are manipulated, @DISEASE$ containing aerosols may be generated.	1
+A meta-analysis of eligible studies comparing the occurrence of severe and fatal @DISEASE$ in infected hypertensive patients who were under treatment with @GENE$ inhibitors (ACEI) or angiotensin receptor blockers (ARB) vs no treatment or other antihypertensives was conducted.	1
+Herein we outline potential adverse effects of @DISEASE$ on macrophages and dendritic cells, key cells of the immune system expressing @GENE$.	1
+We assume the extensive pediatric vaccination with @GENE$ vaccines followed globally could have resulted in innate immune responses, e.g., induction of interferons (IFNs) and activated natural killer (NK) cells, thereby offering natural immunity against @DISEASE$ in the young population.	1
+A computational approach to in silico drug discovery was carried out to identify small drug-like compounds able to show structural and functional mimicry of the high affinity ligand X77, potent non-covalent inhibitor of @DISEASE$ @GENE$ (MPro).	1
+Type I @GENE$ immunoprofiling in @DISEASE$ patients.	1
+In this study, we report our discovery of inhibitors targeting the @DISEASE$ @GENE$ (Mpro).	1
+The conserved 3-@GENE$ protease (3CLpro), which controls coronavirus replication is a promising drug target for combating the @DISEASE$.	1
+The rate of @DISEASE$ and @GENE$/MI was 2.5% and 1.1%, respectively.	1
+Based on their high homology, their possibility of binding the @GENE$ of @DISEASE$ is quite high and species such as Felis catus, Bos taurus, Rattus norvegicus etc.	1
+Macrophages have shown a significant production of @GENE$, suggesting they may contribute to the excessive inflammation in @DISEASE$ disease.	1
+Male balding as a major risk factor for severe @DISEASE$: a possible role for targeting androgens and @GENE$ to protect vulnerable individuals.	1
+Cardiovascular Damage in @DISEASE$: Therapeutic Approaches Targeting the @GENE$-Angiotensin-Aldosterone System.	1
+Development and Validation of a Rapid, Single-Step Reverse Transcriptase Loop-Mediated Isothermal Amplification (RT-@GENE$) System Potentially to Be Used for Reliable and High-Throughput Screening of @DISEASE$.	1
+Moreover, the presence of @GENE$ in specific virus-targeted cells and its induction by proinflammatory cytokines and tissue damage contribute to its implication in @DISEASE$.	1
+The aim of this randomised @GENE$-controlled trial is to clarify whether combination therapy with the antibiotic azithromycin and hydroxychloroquine via anti-inflammation/immune modulation, antiviral efficacy and pre-emptive treatment of supra-infections can shorten hospitalisation duration for patients with @DISEASE$ (measured as   days alive and out of hospital   as the primary outcome), reduce the risk of non- invasive ventilation, treatment in the intensive care unit and death.	1
+Chimeric serpins with best interaction and active site binding and with ability to form 1:1 serpin-@GENE$ complex in human plasma can be assessed by using @DISEASE$/PAGE and Western blot analysis with serpin antibody.	1
+In the multivariate regression, @DISEASE$ (odds ratio [OR], 8.96; 95% confidence interval [CI], 1.81-44.42; P = 0.007), CT score &gt; 5 (OR, 3.70; 95% CI, 1.44-9.53; P = 0.007), old age (&gt; 77 years, OR, 9.96; 95% CI, 3.78-26.28; P &lt; 0.001), and elevated @GENE$ (OR, 4.15; 95% CI, 1.62-10.6; P = 0.003) were significant prognostic factors of severe disease.	1
+Of the 578 participants recruited from 28 March to 9 April 2020, 54 (9.3%, 95% CI: 7.1-12.0) were seropositive for IgM and/or IgG and/or @GENE$ against @DISEASE$.	1
+Glial cells and neurons have been reported to express @GENE$ receptors, which make them a potential target of @DISEASE$.	1
+The prodrug is metabolized to its active triphosphate form and interferes with the action of @GENE$ of @DISEASE$.	1
+Our study intended to longitudinally explore the prediction effect of @GENE$ on pulmonary exudation progression in @DISEASE$ patients.	1
+Although the pathophysiology of the @DISEASE$ virus affecting the cerebrovascular system has not been elucidated yet, researchers have identified several pathogenic mechanisms, including a role for the @GENE$.	1
+Priming with appropriate vaccines may thus be beneficial for optimizing @GENE$+ T cell immunity in @DISEASE$.	1
+We are still at the beginning of the @DISEASE$ and scientific evidence is still scarce and incomplete, so these ABORL-@GENE$ recommendations for otorhinolaryngologists may be updated based on new knowledge and the pattern of the new coronavirus spread.	1
+However, the @DISEASE$ spike (S) glycoprotein has a novel insertion that generates a putative @GENE$ cleavage signal and this has been postulated to expand the host range.	1
+To assess the outcomes of pediatric patients with laboratory-confirmed coronavirus disease (@DISEASE$) with or without multisystem inflammatory syndrome in children (@GENE$-C).	1
+@GENE$ allele frequency was positively correlated with @DISEASE$ prevalence (ρ = 0.527, p = 0.004) and mortality rate (ρ = 0.542, p = 0.003) across nations.	1
+However, @DISEASE$ can affect several human organs due to high expressions of @GENE$ which is the main viral target and the virus may affect not only higher and lower respiratory tracts, but also heart, kidney, gastro enteric tract, liver, pancreas, nervous system and skin.	1
+Plasmapheresis, Anti-@GENE$ and Anti-FcγRII Monoclonal Antibodies: A Possible Treatment for Severe Cases of @DISEASE$.	1
+However, @GENE$ plays a common role in the pathogenesis of adipocyte hypertrophy and @DISEASE$.	1
+We found that glucocorticoid exposure of ≥10 mg/day is associated with a higher odds of hospitalisation and anti-@GENE$ with a decreased odds of hospitalisation in patients with @DISEASE$.	1
+Extended @GENE$ Gene Region Is Valuable in the Epidemiological Investigation of @DISEASE$-Similar Coronavirus.	1
+A structured questionnaire and Clinical @DISEASE$ Rating Scale (@GENE$)-FTD were used by the neurologist with patients and/or caregivers.	1
+Besides @GENE$, other unknown co-factors might be involved in cell @DISEASE$.	1
+Predictive effects of @GENE$ and IgG combination to assess pulmonary exudation progression in @DISEASE$ patients.	1
+Thus, cells expressing @GENE$, such as neurons and glial cells may act as targets and are thus vulnerable to @DISEASE$.	1
+We validated detection of @DISEASE$ by Sanger sequencing the PCR product from the @GENE$.	1
+Multivariate models were fitted to assess the independent association between @GENE$-and each of their components-and @DISEASE$ seropositivity, after adjusting for relevant covariates.	1
+Compared to the traditional IgM-IgG combined antibodies, @GENE$-IgG combined antibodies are more effective for diagnosing @DISEASE$.	1
+Using single-cell RNA Seq and @GENE$-Seq datasets and immunohistochemical analysis, we investigated @DISEASE$ tropism in the embryonic, fetal and adult human ocular surface.	1
+Appropriate glycemic management contributes to a reduction in adverse clinical outcomes in acute illness but also requires intensive patient interactions for bedside glucose monitoring, intravenous and subcutaneous @GENE$ administration, as well as rapid intervention for @DISEASE$ events.	1
+Moreover, the change of @GENE$ level from baseline inversely correlated with the PHQ-9 total score (R = -0.31, P = 0.002), indicative of improvement of @DISEASE$.	1
+Structural Basis for @GENE$-Polymerase Coupling in the @DISEASE$ Replication-Transcription Complex.	1
+Finally, we review evidence on the use of antihypertensive medication, namely, @GENE$ inhibitors and angiotensin receptor blockers, in patients with @DISEASE$.	1
+Three Decades of @GENE$ in @DISEASE$:	1
+Structure of the @DISEASE$ spike receptor-binding domain bound to the @GENE$.	1
+In-silico approaches to detect inhibitors of the human @DISEASE$ coronavirus @GENE$ ion channel.	1
+Hyperalbuminorrachia and increased levels of the astroglial @GENE$ were suggestive of blood-brain barrier (BBB) @DISEASE$.	1
+@GENE$-Angiotensin System Inhibitors and @DISEASE$: Potential Therapeutics	1
+It has been hypothesised that the use of @GENE$ inhibitors and angiotensin receptor blockers (ARBs) might either increase or reduce the risk of severe or lethal @DISEASE$.	1
+Commentary has also been made on guidance that has been adjusted for people with @GENE$ in relation to the current @DISEASE$.	1
+Evidence-Based Considerations Exploring Relations between @DISEASE$ Pandemic and Air Pollution: Involvement of PM2.5-Mediated Up-Regulation of the Viral Receptor @GENE$.	1
+Risk of severe @DISEASE$ in hypertensive patients treated with @GENE$-angiotensin-aldosterone system inhibitors.	1
+In addition, clinical findings indicate that @GENE$ levels might be important in defining Covid-19 outcomes, potentially partially explaining associations with air pollution and with @DISEASE$.	1
+However, available data from limited studies show administration of recombinant @GENE$ improves lung damage caused by respiratory viruses, suggesting ibuprofen use may be beneficial in @DISEASE$ disease.	1
+@GENE$ as Protective Natural Barrier of Respiratory and Intestinal Mucosa against @DISEASE$ and Inflammation.	1
+This might be enhanced by an increase in @GENE$ production induced by @DISEASE$ of visceral fat.	1
+Overall, the E gene target of the NxTAG panel demonstrated the highest sensitivity among the three @DISEASE$ targets, while the @GENE$ targets demonstrated the least.	1
+Older age and higher serum @GENE$ level were risk factors of @DISEASE$, and KDIGO stage 3 AKI independently predicted death.	1
+Here, we investigate the relationship of spike (S) glycoprotein from @DISEASE$ with the @GENE$ of a closely related bat virus, RaTG13.	1
+PHQ-2 and @GENE$ scores were not associated with severities of any other symptoms during the @DISEASE$ course.	1
+@GENE$ deficient individuals are at high risk of severe hemolysis when given anti-malarial drugs such as primaquine, quinine, other sulphonamide-containing medicines, and chloroquine, which has recently been shown to be potent for the treatment of coronavirus disease (@DISEASE$).	1
+We posit that nanoparticles decorated with @GENE$, the receptor for @DISEASE$, could be exploited as decoys to intercept the virus before it infects cells in the respiratory tract.	1
+@GENE$-inhibitors in a non-oncological indication as @DISEASE$: Are we aware about its potential role as anti-thrombotic drugs?	1
+Interferon-responsive @GENE$ cells were infected with these viruses and produced higher levels of interferon responses than were seen with wild-type icPEDV @DISEASE$.	1
+To examine the association between the use and timing of @GENE$b and clinical outcomes, we analyzed in a retrospective multicenter cohort study of 446 @DISEASE$ patients in Hubei, China.	1
+Role of @GENE$ inhibitors in patients with @DISEASE$ infected with coronavirus-19.	1
+Many studies have reported the clinical characteristics of @DISEASE$: sudden deterioration of disease around 1-2 weeks after onset; much lower level of lymphocytes, especially natural killer (NK) cells in peripheral blood; extremely high pro-inflammatory cytokines and @GENE$ (CRP).	1
+Fourthly, the target @GENE$ molecules and @DISEASE$ possess other putative sites for drugs potentially modulating receptor activity or virus processing.	1
+Several laboratory markers (lower O2 saturation and platelets, and higher leukocytes, creatinine, lactate dehydrogenase, @GENE$, procalcitonin, and ferritin) were associated with @DISEASE$ severity.	1
+All household members are asked to complete a baseline questionnaire and subjects ≥14 years of age are asked to provide a venous blood sample of ≤3 ml for the determination of @DISEASE$ IgG/@GENE$ status.	1
+The counter viewpoint argues that continuous use of these drugs results in hyperexpression of @GENE$ receptors on respiratory epithelium allowing easier @DISEASE$ intracellular entry, resulting in enhanced viral replication and tissue damage.	1
+Regarding the possibility of direct virus invasion into the oral tissues, the results suggested that @GENE$+ cells in salivary glands could possibly be the target cells of @DISEASE$ and theoretically could generate infectious saliva in a sustained way.	1
+Genetic variants that influence @DISEASE$ receptor @GENE$ expression among population cohorts from multiple continents.	1
+@DISEASE$ may enter into the host cell by binding to @GENE$.	1
+However, @GENE$/SMX led to the development of @DISEASE$, which continued to worsen despite appropriate management including hemodialysis.	1
+Evaluation of @DISEASE$ neutralizing antibodies using a @GENE$-based colorimetric live virus micro-neutralization assay in human serum samples.	1
+@GENE$ May Mediate Disease Severity In @DISEASE$.	1
+@DISEASE$: Clean up on @GENE$.	1
+This study resorted to the emerging discipline of immunoinformatics in order to design a multi-epitope mRNA vaccine against the @GENE$ of @DISEASE$.	1
+Conclusion: Gamunex-C and Flebogamma @GENE$ contain antibodies reacting against @DISEASE$ antigens.	1
+The present study identified rutin, a bioflavonoid and the antibiotic, doxycycline, as the most potent inhibitor of @DISEASE$ @GENE$.	1
+Thus, the review aimed to shed light on the potential beneficial effects of @GENE$ pathways as a novel target for @DISEASE$ therapy by summarizing its possible molecular mechanisms.	1
+@DISEASE$ belonging to the @GENE$ type possesses a non-synomymous variant (<span class='variant' id='p SUB D 614 G__ProteinMutation-6-73-78'>D614G</span>) that possibly eases the entry of the virus into the lung cells of the host.	1
+The @GENE$ of @DISEASE$ has been undergoing mutations and is highly glycosylated.	1
+Interestingly, we documented type I @GENE$-driven inflammatory features in patients with severe @DISEASE$ as well.	1
+Structure of @DISEASE$ @GENE$ in the apo state.	1
+This review also reports the rationale for a possible use of drugs commonly employed in neoplastic therapy, such as bevacizumab, ibrutinib, selinexor, thalidomide, carfilzomib, and @GENE$ inhibitors, for the treatment of @DISEASE$.	1
+Stratifying by type 2 inflammatory biomarkers, we identified subjects who demonstrated low peripheral blood eosinophils accompanied by increased expression of the @DISEASE$ receptor @GENE$ in bronchial epithelium.	1
+The laboratory and radiological characteristics of two groups mainly were @DISEASE$, increased erythrocyte sedimentation rate, increased @GENE$, increased lactate dehydrogenase, decreased oxygenation index, normal white blood cell count and bilateral chest CT involvement.	1
+From 1 April 2020, patients with @DISEASE$-associated CSS, defined as rapid respiratory deterioration plus at least two out of three biomarkers with important elevations (@GENE$ &gt;100 mg/L; ferritin &gt;900 µg/L; D-dimer &gt;1500 µg/L), received high-dose intravenous methylprednisolone for 5 consecutive days (250 mg on day 1 followed by 80 mg on days 2-5).	1
+@GENE$-Informed Interventions for Essential Workers During the @DISEASE$.	1
+Data from human studies overwhelmingly imply that administration of ACEIs/@DISEASE$ does not increase @GENE$ expression.	1
+GSEA showed that various metabolic and immune-related pathways were significantly associated with @GENE$ expression across @DISEASE$ types.	1
+Based on that and using an in silico approach, we evaluated @DISEASE$ @GENE$ as a target for HIV-1 protease inhibitors to reveal the structural features related to their antiviral effect.	1
+A Scoping Review of Registered Clinical Trials of Cellular Therapy for @DISEASE$ and a Framework for Accelerated Synthesis of Trial Evidence-@GENE$ Evidence.	1
+@DISEASE$ assays to detect functional antibody responses that block @GENE$ recognition in vaccinated animals and infected patients.	1
+In this regard, we conducted a meta-analysis study of the prevalence of @GENE$ (I/D) genotype in countries most affected by the @DISEASE$.	1
+This review briefly outlines the structure and function of the 2019 novel CoV/@DISEASE$ @GENE$ S.	1
+Multivariate linear regression analysis revealed that @DISEASE$ and relationship with her husband are the best predictors of @GENE$ II scores.	1
+@GENE$ Assay: Could it be a Boon for the Molecular Diagnosis of @DISEASE$?	1
+The loss of @GENE$ function following binding by @DISEASE$ is driven by endocytosis and activation of proteolytic cleavage and processing.	1
+The expression level of @GENE$ determines the severity of @DISEASE$: lung and heart tissue as targets.	1
+So, @GENE$ inhibitors can be targeted as potential drug therapies for @DISEASE$.	1
+@GENE$ is involved in the cytokine cascade, which originates as a consequence of an excessive immune response secondary to @DISEASE$, aggravating lung affectation.	1
+A graph-based approach identifies dynamic H-bond communication networks in @GENE$ S of @DISEASE$.	1
+Thus, the results suggest that some individuals may be exceedingly susceptible to develop severe @DISEASE$ due to concomitant high preexisting @GENE$ and TMPRSS expression and low baseline cytotoxic lymphocyte levels in the lung.	1
+Sphingosine prevents binding of @DISEASE$ spike to its cellular receptor @GENE$.	1
+Difference in levels of @DISEASE$ S1 and S2 subunits- and nucleocapsid protein-reactive SIgM/IgM, IgG and SIgA/@GENE$ antibodies in human milk.	1
+Using a magnetic bead assay and a recombinant @DISEASE$ @GENE$ fragment, we tested binding of 131I-CR3022 in the presence and absence of CR3022.	1
+As an indirect marker of thrombin and @GENE$ activation, D-dimer has been suggested to guide anticoagulant treat in @DISEASE$ patients [2, 3].	1
+In the context of the current pandemic, the suitability of different 3DP technologies will depend on the physicochemical properties, unit dose strength and @GENE$ classification of the repurposed drug compounds currently being trialed for @DISEASE$.	1
+Shedding Light on @DISEASE$: @GENE$ the Missing Link?	1
+Repurposing approved drugs as inhibitors of @DISEASE$ @GENE$ from molecular modeling and virtual screening.	1
+Activation of the @GENE$, mediators and hormones impact on the hemostasis, endothelial activation, alveolar epithelial cells and mucosal inflammatory responses which are the essentials of the @DISEASE$ pathophysiology.	1
+Many high-risk @DISEASE$ patients with comorbidities are on @GENE$ inhibitors and angiotensin receptor blockers, and this has sparked debate about whether to continue these treatment regimes.	1
+We reviewed the literature that reported the distribution and function of @GENE$ in the female reproductive system, hoping to clarify the potential harm of @DISEASE$ to female fertility.	1
+Elevated systemic @GENE$ levels in patients with @DISEASE$ are considered as a relevant parameter in predicting most severe course of disease and the need for intensive care.	1
+Can aldosterone increase @GENE$ levels in Covid-19 @DISEASE$?	1
+It is well established that @GENE$ is essential for the replication of various coronaviruses such as @DISEASE$, CoV-229E, CoV-NL63, and FCoV. Additionally, CsA and its derivatives (ALV, NIM811, etc.) have obvious inhibitory effects on a variety of coronaviruses.	1
+During this work, a structure of @GENE$ from @DISEASE$ became available and was also included in the in silico virtual screen.	1
+A putative new @DISEASE$ protein, 3c, encoded in an ORF overlapping @GENE$.	1
+the aim of the present Systematic Literature Review (@GENE$) and meta-analysis was to analyse the influence of gender on @DISEASE$ mortality, severity and disease outcomes.	1
+The pharmacological and immunological properties of interferons, especially those of @GENE$, and the corresponding treatment strategies are described, and the results of studies with different interferons in @DISEASE$ are analysed.	1
+The results suggest the effectiveness of Ribavirin, Remdesivir, Sofosbuvir, Galidesivir, and Tenofovir as potent drugs against @DISEASE$ since they tightly bind to its @GENE$.	1
+In patients with methylated @GENE$ receiving single modality treatment, TMZ-alone treatment approaches may be an option in settings with high @DISEASE$-associated risk.	1
+Here we show that a clinically approved anti-HCV drug, Boceprevir, and a pre-clinical inhibitor against feline infectious peritonitis (corona) virus (FIPV), GC376, both efficaciously inhibit @DISEASE$ in Vero cells by targeting @GENE$.	1
+Evaluation of Nucleocapsid and @GENE$-Based Enzyme-Linked Immunosorbent Assays for Detecting Antibodies against @DISEASE$.	1
+The @DISEASE$ Checklist-Civilian (@GENE$-C) questionnaire and Simplified Coping Style Questionnaire (SCSQ) were used for evaluation.	1
+We searched MedLine, Scopus and preprint repositories up to 8 June 2020 to retrieve cohort or case-control studies comparing the risk of severe/fatal @DISEASE$ (either mechanical ventilation, intensive care unit admission or death), among hypertensive subjects treated with: (1) @GENE$ inhibitors, (2) ARBs and (3) both, versus untreated subjects.	1
+@GENE$: May be a potential inflammatory mediator for @DISEASE$?	1
+The aim of this randomised @GENE$-controlled trial is to clarify whether combination therapy with the antibiotic azithromycin and hydroxychloroquine via anti-inflammation/immune modulation, antiviral efficacy and pre-emptive treatment of supra-infections can shorten hospitalisation duration for patients with @DISEASE$ (measured as   days alive and out of hospital   as the primary outcome), reduce the risk of non- invasive ventilation, treatment in the intensive care unit and death.	1
+At present, a cocktail of LAMP assay reagents along with reverse transcriptase enzyme (Reverse Transcription LAMP, RT-@GENE$) can be a robust solution for the rapid and cost-effective diagnosis for @DISEASE$, particularly in developing, and low-income countries.	1
+The current study employs state of art computational methods to design novel molecules by linking molecular fragments which specifically bind to different constituent sub-pockets of the @DISEASE$-@GENE$ binding site.	1
+The strength of our study was that we validated the RT-@GENE$ assay using 481 clinical respiratory samples from two prospective cohorts of suspected @DISEASE$ patients and on the serial samples from an asymptomatic carrier.	1
+It is suggested that glycoengineering of carbohydrate chains on the glycan-shield of inactivated @DISEASE$ or on @GENE$ vaccines, for presenting α-gal epitopes, will have similar amplifying effects on vaccine efficacy.	1
+Pediatric patients with laboratory-confirmed @DISEASE$ with @GENE$-C had a severe clinical spectrum with a high mortality rate.	1
+Serum @GENE$ levels increase with increasing frequency of FQRS in patients with @DISEASE$ indicating that patients with FQRS are exposed to more inflammation.	1
+Also, we aggregate all publicly available @DISEASE$ sequences from GISAID, NCBI, @GENE$, and CNGB, and extract genetic variants from these sequences for download and downstream analysis.	1
+@GENE$ immunotherapy is a viable strategy for @DISEASE$.	1
+@DISEASE$ S1 + S2-reactive SIgA/@GENE$, SIgM/IgM and IgG were detected in 97.6%, 68.3% and 58.5% in human milk whereas nucleocapsid-reactive antibodies were detected in 56.4%, 87.2% and 46.2%, respectively.	1
+RT-PCR analysis showed consistent expression by 2 @GENE$ gene primers in 2 out of 3 human conjunctival cells and @DISEASE$ cell lines.	1
+Type I @GENE$ deficiency: an immunological characteristic of severe @DISEASE$ patients.	1
+@GENE$ inhibitors as host-directed antiviral agents with potential for the treatment of @DISEASE$.	1
+The present study provides the first multiepitope vaccine construct using the @GENE$ of @DISEASE$.	1
+In this report, we studied the @GENE$ topology from the new @DISEASE$ virus both in microsomal membranes and in mammalian cells.	1
+The present study describes how the available drug candidates can be used as a potential @DISEASE$ @GENE$ inhibitor by molecular docking and molecular dynamic simulation studies.	1
+Patients showed typical @DISEASE$, higher prothrombotic profile, and higher markers of inflammation (ferritin and @GENE$ values).	1
+Thus, we propose further investigation into possible benefits of @GENE$ in shock secondary to @DISEASE$.	1
+@GENE$ multifunctionality is commonly associated with the presence of flexible or disordered regions, we analyze here the intrinsic disorder predisposition of major players related to the @DISEASE$ - RAAS axis.	1
+Therefore, it is imperative to closely monitor laboratory parameters including the WBC count, LYMPH count, and @GENE$, along with other imaging features in chest CT scans, to promptly prevent, diagnose, and treat a @DISEASE$ during pregnancy.	1
+At multivariate analysis, risk factors for SRF in the derivation cohort assessed at hospitalization were age ≥70 years (OR 2.74; 95% CI 1.66-4.50), @DISEASE$ (OR 4.62; 95% CI 2.78-7.70), body temperature ≥38°C (OR 1.73; 95% CI 1.30-2.29), respiratory rate ≥22 breaths/min (OR 3.75; 95% CI 2.01-7.01), lymphocytes ≤900 cells/mm3 (OR 2.69; 95% CI 1.60-4.51), creatinine ≥1 mg/dL (OR 2.38; 95% CI 1.59-3.56), @GENE$ ≥10 mg/dL (OR 5.91; 95% CI 4.88-7.17) and lactate dehydrogenase ≥350 IU/L (OR 2.39; 95% CI 1.11-5.11).	1
+When immunized in mice, the S1 domain induced much higher IgG and @GENE$ antibody levels than the RBD and more efficiently neutralized @DISEASE$ when adjuvanted with alum.	1
+@DISEASE$ associated with encephalomyeloradiculitis and positive anti-@GENE$ antibodies: Cause or coincidence?	1
+The utility of @GENE$ testing as a human cellular control in @DISEASE$ testing.	1
+In this cross-sectional study, we recruited all RNs working with patients with the @DISEASE$ in @GENE$ during the outbreak.	1
+@GENE$ Level May Predict the Risk of @DISEASE$ Aggravation.	1
+Structural insights into the mechanism of RNA recognition by the N-terminal RNA-binding domain of the @DISEASE$ @GENE$.	1
+It is unclear whether previous treatment with @GENE$ inhibitors (ACEI) and angiotensin receptor blockers (ARB) affects the prognosis of @DISEASE$ patients.	1
+Some potential immunotherapeutic strategies to control the progression of @DISEASE$, such as passive antibody therapy and use of interferon αβ and @GENE$ (IL-6R) inhibitor, have also been discussed.	1
+From a stem cell perspective, this review focuses on the possible involvement of @GENE$+ stem/progenitor cells from both the upper and lower respiratory tracts in @DISEASE$.	1
+The hemizygous viral-entry booster variants of @GENE$ describe the higher @DISEASE$ mortality rate in males.	1
+This finding indicates that expression systems with posttranslational modification abilities are important to maintain the natural configurations of recombinant @GENE$ antigens and are critical for effective @DISEASE$ vaccines.	1
+The Global Consortium to Study Neurological dysfunction in @DISEASE$ (@GENE$-NeuroCOVID), endorsed by the Neurocritical Care Society (NCS), was rapidly established to address this need in a tiered approach.	1
+Finally, we map the locations of amino acid substitutions in the @GENE$ from over 38,000 @DISEASE$ genome sequences.	1
+We found a statistically significant association between @GENE$ intake and the absence of symptoms during @DISEASE$ (odds ratio [OR] 2.91; confidence interval [CI] 1.27-6.71), which remained statistically significant after adjusting for covariates (OR 2.65; CI 1.13-6.68).	1
+Structure, Function, and Antigenicity of the @DISEASE$ @GENE$.	1
+All patients were on @GENE$ inh/@DISEASE$ or other antihypertensive therapy unless no contraindication was present.	1
+Heartbeat: interaction of @GENE$-angiotensin-aldosterone blocking drugs with @DISEASE$ disease susceptibility and severity.	1
+The aim of this study was to investigate the association of @GENE$ at baseline on @DISEASE$-related mortality in elderly patients (≥65 y of age).	1
+The identification of @GENE$ 2 (ACE2) as the receptor allowing viral entry to cells precipitated our interest in the role of ACE2 in @DISEASE$ pathogenesis.	1
+Finally, we find that @GENE$ treatment effectively blocks @DISEASE$ replication.	1
+Good @GENE$ Bad IgG in @DISEASE$?	1
+Identification of phytochemical inhibitors against @GENE$ of @DISEASE$ using molecular modeling approaches.	1
+The potential therapeutic value of @GENE$ infusion in @DISEASE$ should be further explored at the earliest.	1
+Elevated Glucose Levels Favor @DISEASE$ and Monocyte Response through a @GENE$/Glycolysis-Dependent Axis.	1
+Among patients receiving neoadjuvant endocrine therapy or no medical therapy, higher scores were assigned for low-@GENE$ or high-genomic risk scores, higher grade, larger @DISEASE$, younger age and longer delay.	1
+Five mice from the transgenic mouse strain @GENE$-hACE2 were intranasally inoculated with @DISEASE$ Hong Kong/VM20001061/2020.	1
+Could @GENE$-angiotensin-aldosterone system inhibitors be used for hypertensive patients with @DISEASE$?	1
+We describe the first 15 cases with multi-system inflammatory syndrome in children (@GENE$-C), temporally related to @DISEASE$, who presented for care to a tertiary pediatric referral center in New York City.	1
+Targeting adenosinergic pathway and @GENE$ signaling for the treatment of @DISEASE$: A hypothesis.	1
+@GENE$ mortality from @DISEASE$ is high despite treatment.	1
+To evaluate the diagnostic and prognostic performance of alternative diagnostic strategies to oral glucose tolerance tests, including random plasma glucose, fasting plasma glucose and @GENE$c , during the @DISEASE$.	1
+RT-@GENE$ assays reported in this study can detect as low as 100 copies of @DISEASE$ RNA.	1
+Patients with persistently high @GENE$-Ab and/or persistent @DISEASE$ at 18 months, or with a relapse after completing a course of MMI, can opt for a definitive therapy with radioactive iodine (RAI) or total thyroidectomy (TX).	1
+Herein, we describe the relationship between @GENE$ levels and clinical and biochemical characteristics of patients with @DISEASE$.	1
+@GENE$: a novel biomarker for detection of @DISEASE$ progression.	1
+Serum @GENE$ deserves more significance in the early triage of @DISEASE$ patients.	1
+@GENE$: A target for repurposing in the treatment of @DISEASE$?	1
+Evaluation of Abbott Anti-@DISEASE$ CMIA IgG and Euroimmun ELISA IgG/@GENE$ Assays In a Clinical Lab.	1
+The antiviral compound remdesivir potently inhibits @GENE$ from @DISEASE$ coronavirus.	1
+The UV-vis and @GENE$ potential results showed that there was successful conjugation of SeNPs and AuNCs to anti-HIV gp41 antibodies and fluorescence microscopy showed that antibodies immobilized on glass substrates were able to capture intact @DISEASE$ pseudoviruses.	1
+On the basis of the unliganded structure, we developed the lead compound into a potent inhibitor of the @DISEASE$ @GENE$ The pharmacokinetic characterization of the optimized inhibitor reveals a pronounced lung tropism and suitability for administration by the inhalative route.	1
+The @GENE$ of @DISEASE$ (Mpro) is an excellent therapeutic target because it is critical for viral replication; however, Mpro has a highly flexible active site that must be considered when performing computer-assisted drug discovery.	1
+@GENE$ is a potential therapeutic cytokine which inhibits inflammation in @DISEASE$ including that caused by coronavirus-19, providing a new relevant strategy.	1
+Insights into the structural and dynamical changes of @GENE$ mutations associated with @DISEASE$ host receptor binding.	1
+Thus, @GENE$ is the key to understand the mechanism of @DISEASE$.	1
+Our FET device could detect the @DISEASE$ @GENE$ at concentrations of 1 fg/mL in phosphate-buffered saline and 100 fg/mL clinical transport medium.	1
+@DISEASE$ orf1b Gene Sequence in the @GENE$ Gene on Human Chromosome 1.	1
+[@GENE$ and coronavirus: research update on pathogenesis of the @DISEASE$ by this indissoluble bond].	1
+Restoring lipoprotein function with @GENE$ raising agents or blocking relevant scavenger receptors with neutralizing antibodies could, therefore, be of value in the treatment of @DISEASE$.	1
+Among all univariable parameters, lymphocytes, @GENE$, and LDH were significantly independent risk factors of @DISEASE$ severity.	1
+In addition to its role as a RAS enzyme @GENE$ is the main receptor for @DISEASE$.	1
+The severity of @DISEASE$ disease intensifies in patients with elevated glucose level probably via amplified pro-inflammatory cytokine response, poor innate immunity and downregulated @GENE$.	1
+Age (adjusted hazard ratio [aHR] 2.08, 95 % CI 1.48-2.92 per ten years more) and @DISEASE$ (aHR 3.04, 95 % CI 1.42-6.49) were independently associated with an increased risk of death, which was also associated with critical disease (aHR 8.26, 95 % CI 1.41-48.29), @GENE$ levels (aHR 1.17, 95 % CI 1.02-1.35 per 50 mg/L more) and creatinine kinase levels above 185 U/L (aHR 2.58, 95 % CI 1.37-4.87) upon admission.	1
+The Global Consortium to Study Neurological dysfunction in @DISEASE$ (@GENE$-NeuroCOVID), endorsed by the Neurocritical Care Society (NCS), was rapidly established to address this need in a tiered approach.	1
+A dermatopathological biopsy suggested a bullous drug reaction with an @DISEASE$-like reaction pattern versus @GENE$/TEN.	1
+Antigen stock of @DISEASE$ was prepared by propagating the virus in Vero @GENE$-81 cells.	1
+We here report novel, selective activity-based probes that enable detection of the @DISEASE$ @GENE$.	1
+Multivariate logistic regression showed that an age over 60 years (OR=8.165, 95% CI: 1.483-45.576, P=0.017), prolonged @GENE$ time (OR=7.516, 95% CI: 2.568-21.998, P=0.006) and elevated NT-proBNP (OR=6.194, 95% CI: 1.305-29.404, P=0.022) were independent risk factors for critical type of @DISEASE$.	1
+A similar interaction was observed between the pentameric α7 AChR chimera and @DISEASE$ @GENE$.	1
+The @GENE$ pathway can inhibit platelet aggregation, and can have anti-thrombotic and anti-inflammatory properties, amongst others, all of which are critical medical conditions observed in @DISEASE$ patients.	1
+The docking results suggested that bisdemethoxycurcumin, demethoxycurcumin, scutellarin, quercetin and myricetin showed least binding energy, i.e., greater than -6.5 Kcal/mol against @GENE$ and endoribonuclease of @DISEASE$.	1
+In this review, we describe the recent progress in our understanding of both type I and type III @GENE$-mediated innate antiviral responses against human coronaviruses and discuss the potential use of IFNs as a treatment strategy for @DISEASE$.	1
+@GENE$ 1-24 and other melanocortins for @DISEASE$ treatment.	1
+Chronic exposure to air pollutants have been associated with lung @GENE$ over-expression which is known to be the main receptor for @DISEASE$.	1
+Fifty-one percent of respondents had left home amid lockdown mostly to procure @GENE$/injection needles/@DISEASE$/glucometer strips from the pharmacy.	1
+Present study explores the intervention effect on @DISEASE$ of traditional Chinese medicine(TCM) by screening the potential inhibitors of @GENE$ and FGFR.	1
+Expression by 2 @GENE$ primers could only be found in 1 out of 3 @DISEASE$ cell lines, but not in any conjunctival cells.	1
+Response to the Comment 'Smoking and @GENE$ Inhibitor/Angiotensin Receptor Blocker Cessation to Limit @DISEASE$.	1
+Notably, @GENE$ antagonists do not appear to be associated with severe @DISEASE$.	1
+We performed the molecular dynamics (MD) simulation in an explicit solvent to investigate the molecular mechanisms of noscapine for stable binding and conformational changes to the @GENE$ (Mpro) of @DISEASE$.	1
+COALITION @DISEASE$ Brazil and @GENE$.	1
+@GENE$-Angiotensin System Inhibitors and @DISEASE$: a Systematic Review and Meta-Analysis.	1
+Since the @GENE$ is a major antigenic target for the development of neutralizing antibodies, we investigated the development of neutralizing antibody titres in serial serum samples obtained from @DISEASE$ human patients.	1
+Heterogeneous response of @DISEASE$ patients could be attributed to differences in not being able to properly downregulate @GENE$ inflammasome activation.	1
+@GENE$ Inhibitors: A potential prophylactic treatment option for @DISEASE$-induced respiratory complications?	1
+Bioinformatics showed sequence mutation of @DISEASE$ with m6A methylation and changed binding capacity with @GENE$.	1
+Relevant inflammatory @DISEASE$ is associated with severity of disease, and @GENE$ inhibition is a cornerstone treatment for hyperinflammatory diseases.	1
+Anti-@GENE$ may interfere with @DISEASE$ in severe cases and use of tocilizumab has had good results in a small cohort.	1
+Exploration and correlation analysis of changes in @GENE$ levels in @DISEASE$ patients with different types in China.	1
+We have shown that Fundació @GENE$ model of care has been able to successfully adapt to a health and social critical situation as @DISEASE$.	1
+Preliminary Post-Mortem @DISEASE$ Evidence of Endothelial Injury and @GENE$ Hyperexpression.	1
+Thus, a newly deciphered @GENE$ is taken as a target that belongs to @DISEASE$.	1
+In patients with elevated @GENE$ time, @DISEASE$/anti-cardiolipin antibody-positivity should be suspected, and anticoagulation prophylaxis should be continued perioperatively for better outcomes.	1
+The Symptom Checklist 90 (SCL-90), Self-rating Anxiety Scale (SAS), Self-rating Depression Scale (SDS), and @DISEASE$ Checklist-Civilian Version (@GENE$-C) were used to assess mental status.	1
+The decreased T cell proportions were observed in @DISEASE$ patients especially in severe cases, and all elevated to normal in mild patiens after initial treatment but only @GENE$+T cells return to normal in severe cases.	1
+We offer case examples describing @GENE$-MI and Prosocial to highlight how these interventions might be applied to moral-dilemma-related concerns during the @DISEASE$ and discuss implications for future research.	1
+Cardiovascular Pharmacology in the Time of @DISEASE$: A Focus on @GENE$.	1
+Filtration evaluation and clinical use of expired elastomeric @GENE$ filter cartridges during the @DISEASE$.	1
+Suppression of @GENE$ inhibits the growth of @DISEASE$ cells.	1
+Blood @GENE$-DNA, a biomarker of early response to @DISEASE$?	1
+In this study, the molecular interaction networks of different stages of @DISEASE$(the early, severe, critical and recovery stage) were constructed using the links among symptoms-related genes collected from @GENE$ V2.0(http://www.tcmip.cn/), an integrated pharmacology network-computing platform for TCM.	1
+@GENE$-selective inhibitors: A potentially promising treatment for @DISEASE$ patients.	1
+These molecules mitigated inflammatory cytokine cascades induced by @DISEASE$ via @GENE$ activating capacity and might have additional anti-fibrotic and anti-remodeling properties.	1
+@DISEASE$ and @GENE$ in the liver and gastrointestinal tract: Putative biological explanations of sexual dimorphism.	1
+Following translation of the @DISEASE$ RNA genome into two viral polypeptides, the @GENE$ M pro cleaves at eleven sites to release non-structural proteins required for viral replication.	1
+Advanced Analysis of Biosensor Data for @DISEASE$ RBD and @GENE$ Interactions.	1
+More research is needed on the disparate health and safety needs of @GENE$ workers to assess how policy can be tailored to reduce the transmission of the @DISEASE$ among the population.	1
+Our findings suggest that the nucleoside-modified mRNA-@GENE$ vaccine platform can induce robust immune responses and is a promising candidate to combat @DISEASE$.	1
+@GENE$ as a Target for @DISEASE$ Treatment: Suggested Effects of Azithromycin and Stem Cell Engagement.	1
+We aimed to evaluate the time length of negativization from the onset of symptoms in healthcare workers (HCWs) with @DISEASE$, and to evaluate significant variations in cycle threshold (CT) values and gene positivity (E, @GENE$, and N genes) among positive individuals who returned to work.	1
+The S protein modified in @GENE$ protease-target site was efficiently secreted to silkworm serum and was purified as oligomers, which showed immunoreactivity for anti-@DISEASE$ S2 antibody.	1
+NCBI was used for the retrieval of surface @GENE$, of novel corona virus (@DISEASE$) strains.	1
+Findings may relieve relevant public concerns regarding @DISEASE$-like risk in domestic animals, highlight virus-host coevolution, and evoke disease intervention through targeting @GENE$ molecular diversity and interferon optimization.	1
+This study provides experimental and clinical evidence that medium-to-low-dose glucocorticoids may play a protective role in the respiratory and digestive systems by activating @GENE$ and suppressing @DISEASE$.	1
+Moreover, the levels of @GENE$ (153.6 (80.3, 240.7) ng/L vs. 49.8 (15.9, 101.9) ng/L) and N-terminal @DISEASE$-type natriuretic peptide (852.0 (400.0, 2 315.3) ng/L vs. 197.0 (115.3, 631.0) ng/L) were significantly higher than patients without myocardial injury (all P&lt;0.01).	1
+Don't judge too RAShly: the multifaceted role of the @GENE$-angiotensin system and its therapeutic potential in @DISEASE$.	1
+From the results, it has been found that the proposed @GENE$-based models use simple linkage functions and are highly reliable for time series prediction of @DISEASE$ cases in India.	1
+Biological plausibility for interactions between dietary fat, resveratrol, @GENE$, and @DISEASE$ illness severity.	1
+Additionally, Viomycin formed higher number of H-bonds with @DISEASE$ @GENE$ than its co-crystallised inhibitor compound N3.	1
+Understanding the @GENE$-angiotensin-aldosterone-@DISEASE$ axis: a comprehensive review.	1
+The major NPIs are, STAY HOME, SANITIZER (wash hands), EARLY CASE DETECTION (PCR Test) and @DISEASE$ @GENE$.	1
+The T-cell epitope-based peptide vaccine was designed for @DISEASE$ using the @GENE$ as an immunogenic target.	1
+@DISEASE$ Preliminary Case Series: Characteristics of @GENE$ Encounters with Linked Hospital Diagnoses.	1
+The inclusion of novel exons located in the 5'UTR/intronic region in the mature transcript may remove the critical @GENE$ residues responsible for the interaction with the receptor-binding domain (RBD) of @DISEASE$, thus preventing their binding and entry into the cell.	1
+The risk factors of neutrophil count, hypersensitivity @GENE$, creatine kinase, and blood urea nitrogen could help clinicians to early identify @DISEASE$ severe patients with poor outcomes on admission.	1
+However, coronaviruses similar to @DISEASE$ can suppress host @GENE$-I antiviral responses.	1
+Molecular docking and dynamics simulation of FDA approved drugs with the @GENE$ from @DISEASE$.	1
+If there is a sex difference in the expression of @GENE$ in the lung, this could theoretically explain the gender disparity in @DISEASE$ disease.	1
+Concerns have been raised about the possibility that inhibitors of the @GENE$-angiotensin-aldosterone system (RAAS) could predispose individuals to severe @DISEASE$; however, epidemiological evidence is lacking.	1
+When converted to secretory @GENE$, MAb326 also neutralizes authentic @DISEASE$ virus while the IgG isotype shows no neutralization.	1
+@GENE$ inhibitors as a potential therapeutic option for @DISEASE$: Available evidence and ongoing clinical trials.	1
+LV-@GENE$ and RV-LS are independent predictors of in-hospital mortality in patients with @DISEASE$.	1
+The @GENE$ for @DISEASE$-related death in LTC residents was 13.1 (95% CI, 9.9-17.3) compared with community-living adults older than 69 years.	1
+These findings provide a basis for testing the potential use of therapies directed at modulation of Th17 cells and @GENE$ signaling in the treatment of @DISEASE$.	1
+The Discovery of a Putative Allosteric Site in the @DISEASE$ @GENE$ Using an Integrated Structural/Dynamic Approach.	1
+@GENE$b spray inhalation did not shorten virus shedding time of @DISEASE$ in hospitalized patients.	1
+Our epidemiologic analysis, despite the limits of the ecological approach, is strongly suggestive of a permissive role of @GENE$*01 and B*44 towards @DISEASE$, which warrants further investigation in case-control studies.	1
+@GENE$ is an important factor when breastfeeding and @DISEASE$ are considered.	1
+Our analysis excluded most previously identified drugs but identified members of 4 drug classes (antimalarial amino-quinolones, selective @GENE$ modulators; SERMs, low potency tricyclic antipsychotics and tricyclic antidepressants) as potential drug candidates for @DISEASE$.	1
+MicroRNAs targeting the @DISEASE$ entry receptor @GENE$ in cardiomyocytes.	1
+After vaccination, all animals were challenged with @DISEASE$, and the vaccine encoding the full-length @GENE$ resulted in &gt;3.1 and &gt;3.7 log10 reductions in median viral loads in bronchoalveolar lavage and nasal mucosa, respectively, as compared with viral loads in sham controls.	1
+Decreased @GENE$ level is associated with increased risk for mortality in elderly hospitalized patients with @DISEASE$.	1
+In this communication, we aimed to evaluate the significance of @GENE$ and the potential protective effect of melatonin that is mediated by this protein in @DISEASE$.	1
+Editorial for   Clinical Potential of @GENE$-MRI for Assessing the @DISEASE$: Patient- and Lesion-Based Comparative Analysis  .	1
+However, recent pandemia of @DISEASE$ has put these proteins at the center of attention, as this virus has been shown to exploit @GENE$ to enter cells.	1
+Potential @GENE$ inhibitors as prospective therapeutics against @DISEASE$.	1
+@GENE$ releases pricing models for potential @DISEASE$ treatments.	1
+Certain medications, for example, dexamethasone, antimalarials (chloroquine/hydroxychloroquine), antiviral (remdesivir), and @GENE$ blocking monoclonal antibodies (tocilizumab), are used in various combinations as off-label medications to treat @DISEASE$.	1
+Our findings support the use of @GENE$-1a in combination with hydroxychloroquine and lopinavir/ritonavir in the management of @DISEASE$.	1
+Inhibitory activity of hydroxychloroquine on @DISEASE$ @GENE$: An insight from MD-simulation studies.	1
+Only variants in @DISEASE$ and @GENE$ were found as possibly implicated in CoV-associated phenotypes in at least two studies.	1
+The false-positive results of @GENE$ elevation might have clinical significance for patients with @DISEASE$.	1
+In @GENE$ cells, 11r exhibits three-digit picomolar activity against the @DISEASE$ coronavirus.	1
+In this review, we discuss the antiviral potential of @GENE$ inhibitors (mainly nucleoside analogs) with an aim to provide a comprehensive account of drug discovery on @DISEASE$.	1
+A systematic review and meta-analysis to evaluate the clinical outcomes in @DISEASE$ patients on @GENE$ inhibitors or angiotensin receptor blockers.	1
+For @GENE$+ T cells, spike and M were recognized, with at least eight @DISEASE$ ORFs targeted.	1
+Here, we investigate the density of the expression levels of @GENE$ in the CNS, the host-virus interaction and relate it to the pathogenesis and complications seen in the recent cases resulting from the @DISEASE$ outbreak.	1
+This case presents a proof-of-concept for the use of therapeutic plasma exchange with 5% @GENE$ as sole replacement solution in a critically ill Covid-19 patient with @DISEASE$.	1
+At admission, @DISEASE$ patients showed signs of systemic and cardiac inflammation in @GENE$ and impaired cardiac function as detected by transthoracic echocardiography (TTE), whereas parameters of myocardial injury e.g. high sensitive troponin-t (hs-TnT) were not yet increased.	1
+Using a newly developed @DISEASE$ Inflammation Score (CIS), patients were prospectively stratified for targeted inhibition of cytokine signalling by the @GENE$/2 inhibitor ruxolitinib (Rux).	1
+On the 2nd and 3rd February 2020, soon after the start of the @DISEASE$, we surveyed medical staff at four hospitals in Guangdong, China, to collect demographic characteristics, Hospital Anxiety and Depression Scale (HADS), Perceived Stress Scale (@GENE$-14), and Insomnia Severity Index (ISI) scores.	1
+The rate of @DISEASE$ and @GENE$/MI was 2.5% and 1.1%, respectively.	1
+Anti-@DISEASE$ @GENE$ and IgG ELISA and IgM/IgG immunochromatographic assay (ICA) were used for testing 60 sera from 21 patients (6 with severe, 10 moderate, and 5 with mild disease).	1
+The analysis of @GENE$ expression in @DISEASE$ was performed using The Cancer Genome Atlas (TCGA).	1
+A high @GENE$/Treg/monocyte ratio predicted a severe disease course in @DISEASE$ patients, and was associated with high serum levels of antiviral cytokines.	1
+A multisystem inflammatory syndrome in children (@GENE$-C) is associated with @DISEASE$.	1
+Blockade of @DISEASE$ by recombinant soluble @GENE$.	1
+We carried out a rapid review to summarize the existing literature on the viability of @DISEASE$, the efficacy of key potential disinfection procedures against the virus (specifically ultraviolet light and heat), and the impact of these procedures on @GENE$ performance, material integrity, and/or fit.	1
+These data provide evidence that <span class='variant' id='p SUB D 614 G__ProteinMutation-6-33-38'>D614G</span> @GENE$ mutant is more available for receptor binding, cellular invasion and reduced antibody interaction; thus, providing framework for enhanced fitness and higher transmissibility in <span class='variant' id='p SUB D 614 G__ProteinMutation-6-220-225'>D614G</span> @DISEASE$ mutant.	1
+Treatment of @DISEASE$ With Conestat Alfa, a Regulator of the Complement, Contact Activation and @GENE$-Kinin System.	1
+A novel biparatopic hybrid antibody-@GENE$ fusion that blocks @DISEASE$: implications for therapy.	1
+Inhaled modified recombinant human @GENE$, may bind @DISEASE$ and mitigate lung damage.	1
+Human @GENE$ expression level and pattern in various tissues might be decisive for the vulnerability, symptoms, and treatment outcomes of the @DISEASE$.	1
+Among 4,689 @GENE$-seasons, we detected @DISEASE$ in 387 (8%).	1
+the Centers for Medicare &amp; Medicaid Services (@GENE$)† recommended that health care systems prioritize urgent visits and delay elective care to mitigate the spread of @DISEASE$ in health care settings.	1
+@GENE$ polymorphism and @DISEASE$ outcome.	1
+No patient receiving @GENE$/@DISEASE$ was admitted to the ICU or died.	1
+This might be because of particular anti-@GENE$ treatment or any immunosuppressant that @DISEASE$ patients receive.	1
+In Silico Drug Repurposing for @DISEASE$ Main @GENE$ and Spike Proteins.	1
+@DISEASE$ attack rate in HIV-infected patients and in @GENE$ users.	1
+The effect of frailty on survival in patients with @DISEASE$ (@GENE$): a multicentre, European, observational cohort study.	1
+@GENE$ is higher in women than in men and its biallelic expression leads to higher immune responses and increases the resistance to @DISEASE$.	1
+The responses of the functional type 2A-@GENE$-Sp and corresponding taxa predict post-@DISEASE$ environmental concerns and the bioaccumulation of ivermectin in seafoods.	1
+In this paper we examine available evidence from preclinical and clinical studies that had analysed the role of @GENE$ in the inflammatory process and the effects of NSAIDs in patients with @DISEASE$.	1
+Healthcare worker's mental health dilemma during @DISEASE$: A reflection on the @GENE$ experience.	1
+Crystal structure of Nsp15 endoribonuclease @GENE$ from @DISEASE$.	1
+Seventeen potential @DISEASE$ @GENE$ inhibitors have been identified among the natural substances of marine origin.	1
+@GENE$ allele frequency was positively correlated with @DISEASE$ prevalence (ρ = 0.527, p = 0.004) and mortality rate (ρ = 0.542, p = 0.003) across nations.	1
+Here we evaluated the pathogenesis of @DISEASE$ in male and female mice expressing the human @GENE$ gene under the control of the keratin 18 promotor.	1
+Is @GENE$ expression in salivary glands related to @DISEASE$ infectivity through saliva?	1
+The CXR score showed a significant positive correlation with @GENE$, lactate dehydrogenase, and @DISEASE$ duration, and a negative correlation with oxygen saturation.	1
+The Sialoside-Binding Pocket of @DISEASE$ @GENE$ Structurally Resembles	1
+Quantitative reverse transcription PCR (qRT-PCR) is currently the standard for @DISEASE$ detection; however, Reverse Transcription Loop-Mediated Isothermal Amplification (RT-@GENE$) may allow for faster and cheaper field based testing at point-of-risk.	1
+Virtual screening and repurposing of FDA approved drugs against @DISEASE$ @GENE$.	1
+Thus, @GENE$ is relevant for @DISEASE$.	1
+If the specifications for protective equipment (eye protection, FFP2 or FFP-3 mask, gown) are adhered to, inhalation therapy, nasal high-flow (NHF) therapy, @GENE$ therapy or NIV can be carried out according to the current state of knowledge without increased risk of @DISEASE$ to the staff.	1
+The causal coronavirus (@DISEASE$) binds host cells via a trimeric spike whose receptor binding domain (RBD) recognizes @GENE$, initiating conformational changes that drive membrane fusion.	1
+At present, some therapies such as @GENE$ antibody blocker, stem cell therapy, and transfusion of convalescent plasma have been applied to counteract the @DISEASE$ with some progresses being achieved.	1
+Nitrite, nitrate (the metabolites of NO), @GENE$, and prooxidant-antioxidant-balance levels were measured in 25 ICU @DISEASE$ patients and 25 healthy individuals.	1
+@GENE$ inhibitors for @DISEASE$ - A miracle waiting to happen or just another beat around the bush?	1
+On the other hand, several genetic association studies have examined the relationship between @GENE$ genetic variants and the risk of developing @DISEASE$ in different ethnic populations.	1
+In contrast, the expression of the procoagulant @GENE$ (not associated to the GO term   blood coagulation  ) was higher in males, increased with age, and was upregulated upon @DISEASE$.	1
+@DISEASE$ were highly variable by @GENE$ code and differed by race/ethnicity.	1
+This new strain of coronavirus, named @DISEASE$, enters human cells that express @GENE$ receptors, which exist in the respiratory, gastrointestinal and genitourinary tracts and heart, causing coronavirus disease.	1
+@DISEASE$ utilizes @GENE$ receptors found at the surface of the host cells to get inside the cell.	1
+As a result of higher @GENE$ expression, pregnant women may be at elevated risk for complications from @DISEASE$.	1
+The age-LDH-@GENE$ model is a simple algorithm for early identifying patients with severe progression tendency following @DISEASE$, and warrants further validation.	1
+While it may not be measuring @DISEASE$, its components suggest that increases in @GENE$-4 may be reflecting systemic inflammation associated with poor outcomes.	1
+Tocilizumab, an anti-soluble @GENE$ monoclonal antibody, has been proposed for treatment of patients with @DISEASE$.	1
+Increased @GENE$ and Ang II are poor prognostic factors for severe @DISEASE$.	1
+ROC curve analysis revealed that the AUC of age, @GENE$ and lymphocyte count for @DISEASE$ were 0.873, 0.911 and 0.817, respectively.	1
+The @DISEASE$ (0.37 × 109/L [interquartile range: 0.23-0.65]) and increased @GENE$ (24.7 × 109/L [interquartile range: 13.57-38]) were observed.	1
+Structural and Functional Basis of @DISEASE$ Entry by Using Human @GENE$.	1
+Is @GENE$c an ideal biomarker of well-controlled @DISEASE$?	1
+Serum ALT (WMD: 7.19 [4.90, 9.48]; p &lt; 0.001; I2 = 69%), @GENE$ (WMD: 9.02 [6.89, 11.15]; p &lt; 0.001; I2 = 73%) and bilirubin levels (WMD: 1.78 [0.86, 2.70]; p &lt; 0.001; I2 = 82%) were significantly higher in patients with severe @DISEASE$ when compared to patients with non-severe disease.	1
+@DISEASE$ related indicators such as WBC#, N#, L#, hs-@GENE$ showed no differences.	1
+A diagnostic genomic signal processing (@GENE$)-based system for automatic feature analysis and detection of @DISEASE$.	1
+The presence of heptanucleotide slippery sequence in @GENE$ resulting in ribosomal frameshifting, and presence of transcription regulatory sequences between ORFs resulting in discontinuous transcription, are peculiar features of @DISEASE$ cycle.	1
+A meta-analysis of seven studies with 1905 patients showed that increased @GENE$ (OR 3.0, 95% CI: 2.1-4.4), @DISEASE$ (OR 4.5, 95% CI: 3.3-6.0), and increased LDH (OR 6.7, 95% CI: 2.4-18.9) were significantly associated with severity.	1
+Twenty of 36 patients presented with @DISEASE$; brief intravenous infusions of short-acting @GENE$ were administered in six patients.	1
+Subjects in the non-@DISEASE$ groups had also elevated IgG (1.8%) and @GENE$ values (7.6%) irrespective of contact history with cases.	1
+[@GENE$-Angiotensin-System (RAS) and @DISEASE$ -	1
+A set of reported bioactive compounds of liquorice were investigated for @DISEASE$ @GENE$ (Mpro) inhibitory potential.	1
+However, we find no evidence that these @GENE$-affinity-enhancing mutations have been selected in current @DISEASE$ pandemic isolates.	1
+We therefore theoretically studied and docked the effects of 19 hydrolysable tannins on @DISEASE$ by assembling with the catalytic dyad residues of its @GENE$ using molecular operating environment (MOE 09).	1
+Moreover, lung cells that have @GENE$ expression may be the main target cells during @DISEASE$.	1
+Potential drivers of disparate @DISEASE$ survival resulting from the pandemic include (a) differential access to telemedicine, timely diagnosis, and treatment; (b) implicit bias in initiatives to triage, prioritize, and schedule @GENE$-directed therapy; and (c) the marked changes in employment, health insurance, and dependent care.	1
+Single-cell RNA analysis on @GENE$ expression provides insights into @DISEASE$ potential entry into the bloodstream and heart injury.	1
+In this article, we discuss the mechanism and production of cyclodextrin-soluble @GENE$ (CD-sACE2) inclusion compounds in the treatment of @DISEASE$ by blocking S-proteins.	1
+CAN WE SAFETLY USE @GENE$ AS ENDOTAMPONADING AGENT IN VITREORETINAL SURGERY DURING CORONAVIRUS DISEASE (@DISEASE$) PANDEMIC?	1
+Here, we describe our current knowledge of the complex interplay between @DISEASE$ and the @GENE$ system, highlighting some of the gaps that need to be filled for a better understanding of the underlying molecular mechanisms.	1
+<span class='variant' id='__SNP-11-0-10'>rs13015258</span> a 50 UTR variant from @GENE$ have significant role in regulation of expression of key regulatory genes that could be involved in @DISEASE$ internalization.	1
+Several mechanisms may play a role in this greater morbidity and mortality, especially uncontrolled @DISEASE$, an impaired immune system, pre-existing proinflammatory states, multiple comorbidities, and dysregulated @GENE$ signaling.	1
+Remarkably, @GENE$ levels were significantly reduced after LMWH treatment (p=0.006), indicating that, besides other beneficial properties, LMWH may exert an anti-inflammatory effect and attenuate in part the '@DISEASE$' induced by the virus.	1
+The Council of Residency Directors in Emergency Medicine (CORD) Advising Students Committee in Emergency Medicine (@GENE$-EM) anticipates institutional and regional variability in both the spread and response to @DISEASE$.	1
+Laboratory Findings in @DISEASE$ in Zigong, China: Key Points for Serum @GENE$.	1
+We aimed to explore risk factors affecting susceptibility to @DISEASE$ and prioritize drug repositioning candidates, based on Mendelian randomization (MR) studies on @GENE$ lung expression.	1
+Physiological and pathological regulation of @GENE$, the @DISEASE$ receptor.	1
+We also summarize the current knowledge regarding the pathophysiology of @DISEASE$ with an emphasis on @GENE$, the cardiovascular system, and the kidney.	1
+Bioinformatics studies on a function of the @DISEASE$ @GENE$ as the binding of host sialic acid glycans.	1
+Social Support Rating Scale (SSRS), Connor-Davidson Resilience scale (CD-@GENE$) and Symptom Checklist 90 (SCL-90) were administrated among 1472 health care workers from Jiangsu Province, China during the peak period of @DISEASE$ outbreak.	1
+Gustatory dysfunctions in @DISEASE$ patients: possible involvement of taste @GENE$-angiotensin system (RAS).	1
+Several anti-viral drugs such as @GENE$ inhibitors (remdesivir, favipiravir, ribavirin), protease inhibitors (lopinavir, ritonavir) and drugs targeting endocytic pathway (hydroxychloroquine) are being evaluated for @DISEASE$ but standard therapeutics yet not available.	1
+In view of this, we describe the effects of @GENE$ on the replication of coronaviruses and the antiviral activities of its inhibitors, which will provide the scientific basis and ideas for the development of antiviral drugs for @DISEASE$.	1
+@GENE$-based identification of the cause of myocardial injury may contribute to explain the different evolution of complicated @DISEASE$ and to design future specific and personalized treatment strategies.	1
+@DISEASE$: Underlying Adipokine Storm and @GENE$-7 Umbrella.	1
+Adult (≥ 18 years old) patients from the 2012 to 2018 @GENE$-NSQIP colectomy-targeted database who underwent elective @DISEASE$ surgery were identified.	1
+It was found that 96.8% and 72.4% of patients present with @GENE$ level and @DISEASE$, respectively, and 70.6% of kidney recipients patients presented with high creatinine levels.	1
+However, excess @GENE$ can result in a pro-inflammatory environment orchestrated through a plethora of mechanisms that propagate lung injury, lymphocyte exhaustion, and an immune @DISEASE$.	1
+We shared in common our clinical, radiological, biological and pathological data to draw attention towards the intestinal @DISEASE$ that can be a part in the @GENE$-C related to Covid 19.	1
+More evidence is urgently needed to confirm the relation between @GENE$ inhibitors and @DISEASE$.	1
+We aim to investigate the immune status of @GENE$+ T and NK cells in @DISEASE$ patients.	1
+This review discusses facts and theories on the potential impact of @GENE$-inhibitors and ARBs in the setting of the @DISEASE$ pandemic.	1
+Evaluation of the EUROIMMUN Anti-@DISEASE$ ELISA Assay for detection of @GENE$ and IgG antibodies.	1
+This is the first randomised controlled trial for assessment of the immunogenicity and safety of a candidate non-replicating adenovirus type-5 (@GENE$)-vectored @DISEASE$ vaccine, aiming to determine an appropriate dose of the candidate vaccine for an efficacy study.	1
+Few parameters, such Lymphocytes count, SaO2 and @GENE$ serum level can be used to assess the severity of @DISEASE$ in emergency room.	1
+Complement Inhibition with the C5 Blocker @GENE$316 in Severe @DISEASE$.	1
+Here, we developed a lipid nanoparticle-encapsulated mRNA (mRNA-@GENE$) encoding the receptor binding domain (RBD) of @DISEASE$ as a vaccine candidate (called ARCoV).	1
+Among the top results expected to bind with @DISEASE$ PLpro strongly were three cell protectives and antioxidants (NAD+, quercitrin, and oxiglutatione), three antivirals (ritonavir, moroxydine, and zanamivir), two antimicrobials (doripenem and sulfaguanidine), two anticancer drugs, three benzimidazole anthelmintics, one antacid (famotidine), three anti-hypertensive @GENE$ blockers (candesartan, losartan, and valsartan) and other miscellaneous systemically or topically acting drugs.	1
+All had increased @GENE$ serum level and @DISEASE$.	1
+Circulating levels of @GENE$ and calprotectin for prediction of in-hospital mortality in @DISEASE$ patients: A case series.	1
+@GENE$ inhibition and p53 activation, microRNAs: The possible therapy against pandemic @DISEASE$.	1
+@GENE$ is required for a proper immune response, but it can also act as an autoantigen in @DISEASE$ or as a damage signal.	1
+Herein, the DrugBank database which contains 10,036 approved and investigational drugs was explored deeply for potential drugs that target @DISEASE$ @GENE$ (Mpro).	1
+Here we present an in silico drug repurposing study that implements successful concepts of computer-aided drug design (CADD) technology for repurposing known drugs to interfere with viral cellular entry via the @GENE$ (@DISEASE$-S), which mediates host cell entry via the hACE2 receptor.	1
+Re-Detectable Positive RT-PCR Test Results in Recovered @DISEASE$ Patients: The Potential Role of @GENE$.	1
+@DISEASE$ to @GENE$ as a possible cause of tissue inflammation in Covid-19.	1
+Identification of promising drug candidates against @GENE$16 of @DISEASE$ through computational drug repurposing study.	1
+Importantly, @GENE$, which was associated with disease development, predicted early severe @DISEASE$.	1
+Food proteins are a potential resource for mining @GENE$ inhibitory drugs to combat @DISEASE$.	1
+Among them, 51 were previously diagnosed with @DISEASE$ and 3 were newly diagnosed based on @GENE$c over 6.5%.	1
+@GENE$ fluid collected 19 days after symptoms onset was positive for @DISEASE$.	1
+Increased @GENE$ may develop resistance to chemotherapy in @DISEASE$ patients receiving chemotherapy.	1
+Levels of @GENE$, a peripheral inflammatory indicator, correlated positively with the PHQ-9 total score (R = 0.37, P = 0.003, Spearman's correlation) of patients who presented @DISEASE$.	1
+Severe @DISEASE$: @GENE$ Inflammasome Dysregulated.	1
+A model based on combination of four indicators (P = 1/[1 + e-(-2.658+0.587×neutrophils - 2.087×lymphocytes - 0.01×platelets+0.004×@GENE$)]) showed good performance in predicting the death of @DISEASE$ patients.	1
+In the hyperglycemic group, 7 (28%) and 18 (72%) patients were diagnosed with @DISEASE$ already before admission, and 10 (40%) and 15 (60%) were treated without and with @GENE$ infusion, respectively.	1
+Critical care ultrasonography during @DISEASE$: The @GENE$ protocol.	1
+Evolving geographic diversity in @DISEASE$ and in silico analysis of replicating enzyme @GENE$ targeting repurposed drug candidates.	1
+In this study, the @DISEASE$ spike binding site to the @GENE$ (Glucose Regulated Protein 78 (GRP78)) is predicted using combined molecular modeling docking and structural bioinformatics.	1
+The most common laboratory abnormalities were elevated @GENE$ (68.6% [58.2-78.2]), @DISEASE$ count (57.4% [44.8-69.5]) and increased lactate dehydrogenase (51.6% [31.4-71.6]).	1
+Therefore, we propose that Viomycin may act as a potential inhibitor of the @GENE$ of @DISEASE$.	1
+The @GENE$, responsible for the cleavage of the viral polyprotein is considered as one of the hot targets for treating @DISEASE$.	1
+There were statistical differences in the incidence of comorbid @DISEASE$, body mass index (BMI), calf circumference,@GENE$, hemoglobin, and lymphocyte counts among the three groups.	1
+Risk of severe @DISEASE$ disease with @GENE$ inhibitors and angiotensin receptor blockers: cohort study including 8.3 million people.	1
+Among lots of old and new drugs, @GENE$-inhibitors were not considered as possible option in the treatment of Covi-2 @DISEASE$, being the latter able to induce the inflammatory and thrombotic cascades.	1
+Soluble Urokinase @GENE$ Activator Receptor: A Biomarker for Predicting Complications and Critical Care Admission of @DISEASE$ Patients.	1
+Anti-@GENE$Rs falter in @DISEASE$.	1
+It has also been found that the @GENE$ of @DISEASE$ is expressed more in the pancreas than the lungs.	1
+In addition, @DISEASE$ patients showed higher mean platelet volume, lower @GENE$ concentrations, and higher De Ritis ratio.	1
+The G-Quadruplex/@GENE$ World as a Potential Antiviral Approach Against @DISEASE$.	1
+Computational Analysis of the Global Effects of @GENE$ in the Immune Response to @DISEASE$ Using Gene Networks.	1
+[Role of age, comorbidity and @GENE$- angiotensin-aldosterone system in @DISEASE$.	1
+A dynamical approach is proposed to discriminate between reactive (rES) and nonreactive (nES) enzyme-substrate complexes taking the @DISEASE$ @GENE$ (Mpro) as an important example.	1
+Type 1 interferons (@GENE$-I) are a family cytokines of the early innate immune response to viruses that are being tested against @DISEASE$.	1
+Exercise as medicine for @DISEASE$: An @GENE$ in the hole?	1
+The @DISEASE$ has resulted in major disruption to all aspects of clinical delivery, workforce and research for ENT/laryngology @GENE$.	1
+In this study, we found that @GENE$ orthologs of a wide range of domestic and wild animals can support cell entry of @DISEASE$ and three related coronaviruses, providing insights into identifying animal hosts of these viruses.	1
+Increased @GENE$ expression was observed in patients with @DISEASE$ with overweight (mean BMI, 29 kg/m2 ) compared with those without overweight (mean BMI, 21 kg/m2 ) (P = 0.004).	1
+The current outcomes created a new paradigm in understanding biochanin A and silymarin bioflavonoids as potent inhibitors of RBD-Sand PD-@GENE$ targets respectively, further work can be extended to confirm their therapeutic potential in @DISEASE$.	1
+Assessment of @GENE$ may help identify high-risk individuals ≥65 y of age with @DISEASE$.	1
+Exploring Personal Protection During High-Risk @GENE$ in a @DISEASE$ Patient: Impella CP Mechanical Support During ULMCA Bifurcation Stenting.	1
+@GENE$ correlates with computed tomographic findings and predicts severe @DISEASE$ early.	1
+RETRACTED ARTICLE: @DISEASE$ infects T lymphocytes through its @GENE$-mediated membrane fusion.	1
+@GENE$ Genetic Variant <span class='variant' id='__SNP-0-59-66'>rs12252</span>-C Associated With Disease Severity in @DISEASE$.	1
+1 (4.8, 2.1 to 10.9), @GENE$ level &gt;200 (5.1, 2.8 to 9.2), and D-dimer level &gt;2500 (3.9, 2.6 to 6.0) were, however, more strongly associated with @DISEASE$ than age or comorbidities.	1
+RT-@GENE$ for rapid diagnosis of coronavirus @DISEASE$.	1
+Potential of coronavirus @GENE$ inhibitors for the development of new anti-@DISEASE$ drugs: Insights from structures of protease and inhibitors.	1
+Is @GENE$ a molecular target of chloroquine treatment against @DISEASE$?	1
+@DISEASE$ virus was prepared by propagating the virus in Vero @GENE$-81 cells.	1
+Repositioning of pentoxifylline as an immunomodulator and regulator of the @GENE$-angiotensin system in the treatment of @DISEASE$.	1
+Identification of @GENE$ protease inhibitors of @DISEASE$ via integrated computational approach.	1
+The new @DISEASE$-@GENE$ assay had a limit of detection (LOD) of 1.8 TCID50/mL and did not amplify other human-pathogenic coronaviruses and respiratory viruses.	1
+There was a significant positive correlation between Tp-e interval, Tp-e/QTc ratio and @GENE$ in patients with newly diagnosed @DISEASE$ (rs = 0.332, p = .005, rs = 0.397, p &lt; .001 consecutively).	1
+@GENE$ expression was mainly observed in enterocytes, @DISEASE$, gallbladder, cardiomyocytes, male reproductive cells, placental trophoblasts, ductal cells, eye, and vasculature.	1
+We also report that @GENE$ is expressed on the surface of murine bone marrow-derived VSELs and HSCs, although it is known that murine cells are not infected by @DISEASE$.	1
+Further, we propose a dual mechanism by which @GENE$ inhibition may be beneficial in the treatment of @DISEASE$, both suppressing the host inflammatory response and impeding viral attachment to host cells.	1
+None of the 143 samples with other respiratory viruses were positive by @DISEASE$-@GENE$, showing 100% specificity.	1
+Famotidine, a class A @GENE$ antagonist used for the treatment of @DISEASE$ was recently identified in an in silico screening.	1
+We think there are clinical clues for @DISEASE$ and the presumed aggravating role of @GENE$ inhibitors like captopril on the disease process.	1
+@GENE$b in treatment of severe @DISEASE$: A randomized clinical trial.	1
+History of acute rejection during the past 12 months, @DISEASE$, higher N/L ratio, lower platelet count, elevated N/L x @GENE$, higher levels of LDH, positive D-dimer, higher troponin, and prolonged PT were associated with mortality.	1
+In our meta-analysis of 19 studies, which included a total of 4,103 patients, the pooled mean @GENE$ and aspartate aminotransferase levels were respectively 31.7 and 51.0 IU/L in the patients with @DISEASE$ who died and 27.7 and 32.9 IU/L in those discharged alive (both p &lt; 0.0001).	1
+The proportion of ground glass opacity (GGO), @DISEASE$ and the total lesion based on the quantitative method was positively correlated with the semi-quantitative CT score (P &lt; 0.001 for all; rs = 0.88, 0.87, 0.90), @GENE$ (P = 0.0278, 0.0168, 0.0078; rs = 0.40, 0.43, 0.48) and ESR (P = 0.0296, 0.0408, 0.0048; rs = 0.46, 0.44, 0.58), respectively, and was negatively correlated with the lymphocyte count (P = 0.0222, 0.0024, 0.0068; rs = -0.42, -0.53, -0.48).	1
+Computational Studies of @DISEASE$ @GENE$: Insights from MD Simulations.	1
+@GENE$ has been undervalued as a biomarker of @DISEASE$.	1
+@GENE$-angiotensin system (RAS) and immune system profile in specific subgroups with @DISEASE$.	1
+Computational View toward the Inhibition of @DISEASE$ @GENE$ and the 3CL Protease.	1
+The substitution and glycosylation of certain amino acids in the antigenic determinants of the @GENE$, as well as its conformational changes, can lead to the same effect in a new experimental vaccine against @DISEASE$.	1
+The @GENE$-vectored @DISEASE$ vaccine at 5 × 1010 viral particles is safe, and induced significant immune responses in the majority of recipients after a single immunisation.	1
+@GENE$-US is safe and effective for the study of severe @DISEASE$.	1
+Twitter offers a means to obtain timely feedback about the public response to @DISEASE$ @GENE$ regimes.	1
+This regimen differs from those approved for treatment of @DISEASE$ and consists of @GENE$a administered as a 24 hour intravenous infusion at a daily dose of up to 90 µg for 3-5 consecutive days.	1
+We found that @GENE$ expression was upregulated in primary cultured human blood vessels with @DISEASE$ compared to healthy controls.	1
+However, statins may increase the risk of @DISEASE$ viral entry by inducing @GENE$ expression.	1
+State-of-the-art tools unveil potent drug targets amongst clinically approved drugs to inhibit @GENE$ in @DISEASE$.	1
+@GENE$ in @DISEASE$ induced endotheliitis.	1
+Indeed, @DISEASE$ utilizes @GENE$ as a membrane receptor to enter target cells.	1
+@GENE$ cells (MCs) are immune cells implicated in the pathogenesis of @DISEASE$, where they mediate inflammation.	1
+Development, testing, and mass production of novel @GENE$ therapies may take years, whereas more effective treatments for @DISEASE$ are needed urgently.	1
+The aim of this randomised @GENE$-controlled trial is to clarify whether combination therapy with the antibiotic azithromycin and hydroxychloroquine via anti-inflammation/immune modulation, antiviral efficacy and pre-emptive treatment of supra-infections can shorten hospitalisation duration for patients with @DISEASE$ (measured as   days alive and out of hospital   as the primary outcome), reduce the risk of non- invasive ventilation, treatment in the intensive care unit and death.	1
+Higher biological markers of inflammation (@GENE$: 28 ± 39 vs. 98 ± 97 mg/L, p = .04), of fibrinolysis (D-dimer: 804 ± 1,500 vs. 3,128 ± 2,458 μg/L, p = .02), and antiphospholipid antibodies in four cases were observed in the @DISEASE$ group.	1
+However, circulating levels of the cholangiocyte injury biomarker γ-glutamyltransferase (@GENE$) have yet to be reported in the existing @DISEASE$ case studies.	1
+In contrast, smoking decreases cellular levels of @GENE$, this finding may be at the origin of the decreased severity of @DISEASE$ in smokers.	1
+The leukocyte, lymphocyte, and thrombocyte count and @GENE$ levels were lowest in the @DISEASE$ group (p&lt;0.001, p=0.04, p&lt;0.001, p=0.007 respectively).	1
+However, it remains unclear how genetic variations in @GENE$ may affect its function and structure, and consequently alter the recognition by @DISEASE$.	1
+This assay demonstrated good specificity for @GENE$ and excellent specificity for IgG and demonstrated only borderline cross reaction in 2 of the 28 samples from patients with common human coronaviruses @DISEASE$, types NL63 and OC43.	1
+Initially, the binding site of @DISEASE$ @GENE$ was predicted which located between regions 2 and 3.	1
+@GENE$ + CECs and CEPs might be investigated as candidate biomarkers of endothelial damage in @DISEASE$ patients.	1
+During metabolic abnormalities, expansion of metabolically active fat ('overfat condition') parallels chronic inflammatory changes, development of @GENE$ resistance and accumulation of fat in configuring @DISEASE$.	1
+What would Sérgio Ferreira say to your physician in this war against @DISEASE$: How about @GENE$/kinin system?	1
+In comparison with wild-type C57BL/6 mice, both young and aged @GENE$ mice sustained high viral loads in lung, trachea, and brain upon intranasal @DISEASE$.	1
+Additionally, @GENE$ could be a major target in the development of antivirals for the treatment of @DISEASE$.	1
+The efficacy of renal denervation, and the use of sodium-glucose cotransporter 2 and @GENE$ inhibitors, have been studied for treatment of @DISEASE$.	1
+However, considering the mutations reported in the @DISEASE$ (nCoV), the structural changes and the binding interactions of the @GENE$ RBD of nCoV were not clear.	1
+It is not clear if and to what degree the @DISEASE$ virus affects the @GENE$-angoiotensin system.	1
+@DISEASE$ (Covid-19): @GENE$ may be responsible of decreased mortality in females.	1
+In addition to IL-6, which has an important role in predicting course and planning treatment in @DISEASE$, @GENE$ may be a novel pneumoprotein that can be used in the clinical course, follow-up, and possibly in future treatments.	1
+Here, we summarise potential beneficial, non-anticoagulant mechanisms underlying treatment of @DISEASE$ patients with heparin/LMWH, which include: (i) Inhibition of @GENE$ activity, responsible for endothelial leakage; (ii) Neutralisation of chemokines, and cytokines; (iii) Interference with leukocyte trafficking; (iv) Reducing viral cellular entry, and (v) Neutralisation of extracellular cytotoxic histones.	1
+Although different types of anti-viral targets are applicable for @DISEASE$ drug screenings, the more promising targets can be considered as 3C-like @GENE$ (3Cl protease) and RNA polymerase.	1
+We aimed to develop and validate a novel reverse transcription-loop-mediated isothermal amplification (RT-@GENE$) assay to detect @DISEASE$.	1
+Sustentacular cells showing @GENE$ immunohistochemical expression 200 to 700 times greater than nasal or tracheal epithelia seem to be the main @DISEASE$ gateway.	1
+Common laboratory features included @DISEASE$ [6/7 (86%)], elevated lactate dehydrogenase [3/4 (75%)], D-dimer [5/6 (83%)], high-sensitivity @GENE$ [4/4 (100%)] and procalcitonin [5/5 (100%)].	1
+Molecular mechanisms that promote interaction between @DISEASE$ virus and host with particular focus on virus cell entry receptor @GENE$ are described.	1
+These cases are reported as presenting the Multisystem Inflammatory Syndrome in Children (@GENE$-C) associated with @DISEASE$.	1
+@DISEASE$ and the RAAS-a potential role for @GENE$?	1
+One group of such immunosuppressants used in @DISEASE$ comprises the anti-@GENE$ monoclonal antibodies (mAbs) ocrelizumab and rituximab.	1
+Evolutionary and structural analyses of @DISEASE$ <span class='variant' id='p SUB D 614 G__ProteinMutation-0-51-56'>D614G</span> @GENE$ mutation now documented worldwide.	1
+Virtual drug repurposing study against @DISEASE$ @GENE$.	1
+Mit @GENE$-Inhibitor gegen @DISEASE$ : Corona-Pandemie.	1
+With the exception of @GENE$, a systematic analysis of these two other @DISEASE$ mediators in malignancies is lacking.	1
+Proteins associated with blood coagulation (D-dimer), cell damage (lactate dehydrogenase), and the inflammatory response (e.g., @GENE$) have already been identified as possible predictors of @DISEASE$ severity or mortality.	1
+The @DISEASE$ outbreak and the @GENE$: too little or too much?	1
+The morbidity and mortality of @DISEASE$ are associated with @GENE$ and Rh blood groups.	1
+Mutation density changes in @DISEASE$ are related to the pandemic stage but to a lesser extent in the dominant strain with mutations in spike and @GENE$.	1
+Resources to assist EEG/@GENE$ researchers during the @DISEASE$.	1
+Early detection of elevations in serum @GENE$, combined with a clinical @DISEASE$ symptom presentation may be used as a surrogate marker for the presence and severity of the disease.	1
+/ @GENE$ / @DISEASE$), respectively endoscopic surgery (EAES SAGES) (4-8), on the experience of countries severely affected by the pandemic (Italy, France, Spain, USA, Germany, etc.) and they will be applied within the limits of measures imposed at local and governmental level by the competent authorities.	1
+During the prenatal and postpartum period, there was no difference in the count of WBC, Neutrophils and Lymphocyte, the radio of Neutrophils and Lymphocyte and the level of @GENE$ between the confirmed @DISEASE$ group and the control group(p&lt;0.05).	1
+Basal-bolus @GENE$ therapy is a safe and effective intervention for the management of @DISEASE$ in hospitalised patients.	1
+Detection of antibodies against @DISEASE$ @GENE$ by gold nanospikes in an opto-microfluidic chip.	1
+The structure of @DISEASE$ @GENE$ determined from X-ray diffraction data was used as the target.	1
+Our review shows that @DISEASE$ selectively induces a high level of @GENE$ and results in the exhaustion of lymphocytes.	1
+Particularly, epitopes were mapped from conserved receptor-binding domain of @GENE$ which have been experimentally validated in @DISEASE$-1 as a promising target for vaccine development.	1
+Thereby, Nsp1 effectively blocks @GENE$-dependent innate immune responses that would otherwise facilitate clearance of the @DISEASE$.	1
+Good @GENE$ Bad IgG in @DISEASE$?	1
+@DISEASE$ has a higher binding affinity to human @GENE$ than to that of other species.	1
+In a subset of cases, virus was detected using different tools (immunohistochemistry for @DISEASE$ viral @GENE$, RNA in situ hybridization, lung viral culture, and electron microscopy).	1
+@DISEASE$ can attack lung cells because there are many conserved receptor entries, namely @GENE$.	1
+The results support a bifactor model consisting of one general factor and two specific factors-one of emotional fear reactions and another of somatic expressions of fear of @DISEASE$ (@GENE$ = 0.988, RMSEA = 0.075).	1
+Virtual screening, ADME/T, and binding free energy analysis of anti-viral, anti-protease, and anti-infectious compounds against NSP10/NSP16 methyltransferase and @GENE$ of @DISEASE$.	1
+The patient subsequently developed superimposed @DISEASE$ with S. maltophilia requiring administration of @GENE$/SMX.	1
+Six laboratory-confirmed @DISEASE$ patients were enrolled and received the transfusion of @GENE$-compatible convalescent plasma.	1
+Can Activation of @GENE$ Be a Strategy against @DISEASE$?	1
+Plasma @GENE$ level is positively associated with the severity of @DISEASE$.	1
+We also review current pharmacological strategies for @DISEASE$, focusing on treatments whose efficacy could be due, at least in part, to interference with the activation of the @GENE$ inflammasome.	1
+We report a pharmacophore and molecular dynamics-based approach for drug repositioning and lead identification against dual targets (@GENE$ and PLp) of @DISEASE$.	1
+Th17 cells secrete @GENE$ and are important for clearing extracellular pathogens, but inappropriate signaling has been linked to @DISEASE$.	1
+The general conditions, biochemical indicators of liver, blood clotting mechanism, routine blood test, @GENE$ * 28 gene polymorphism and other data of 40 cases with @DISEASE$ admitted to the isolation ward of Tangdu Hospital were retrospectively analyzed.	1
+These results give support for the completion of ongoing prospective studies and randomized controlled trials involving @GENE$ treatment for @DISEASE$, which are needed to further validate the utility of this class of drugs to combat the mortality of this pandemic.	1
+Attenuated Interferon and Proinflammatory Response in @DISEASE$-Infected Human Dendritic Cells Is Associated With Viral Antagonism of @GENE$ Phosphorylation.	1
+We present here the case of a patient with critical @DISEASE$ successfully treated with @GENE$ antagonist (anakinra).	1
+Structural basis for inhibition of the @GENE$ from @DISEASE$ by remdesivir.	1
+Patients with imaging progression were prone to be advanced in age [years: 60 (46-65) v 47 (37-60.75), P = 0.030]; @DISEASE$ (66.7% v 40.4%, P = 0.042) and low level of @GENE$ [mg/L: 5.7 (1.9-20.2) v 18.9 (6.7-38.9), P = 0.038].	1
+RNA-@GENE$ Predicts @DISEASE$ RNA Residency to Host Mitochondria and Nucleolus.	1
+@DISEASE$ enters cells using its @GENE$, which is also the main target of neutralizing antibodies.	1
+Antibody titers (@GENE$ and IgG) against @DISEASE$ were measured in the cleaning staff from June 15th to 30th, 2020 in our clinic.	1
+Structural insight into the role of novel @DISEASE$ @GENE$: A potential target for vaccine development and other therapeutic strategies.	1
+@DISEASE$ of 293FT target cells was only possible if the cells were engineered to stably express the human @GENE$, but stably introducing an additional copy of this receptor did not further enhance susceptibility.	1
+The present work is an investigation to test hydroxychloroquine as an inhibitor for the @DISEASE$ @GENE$.	1
+FDA-approved thiol-reacting drugs that potentially bind into the @DISEASE$ @GENE$, essential for viral replication.	1
+In view of this, it is plausible that the mechanism for the anti-inflammatory effect of chloroquine against @DISEASE$ involves inhibition of host @GENE$.	1
+Neutrophil to @GENE$+ lymphocyte ratio as a potential biomarker in predicting virus negative conversion time in @DISEASE$.	1
+First, @DISEASE$ is known to stimulate the production of PGD2 in the airways, which inhibits the host dendritic cell response via the @GENE$ signaling.	1
+Computational drug repurposing for the identification of @DISEASE$ @GENE$ inhibitors.	1
+Famotidine, a class A @GENE$ antagonist used for the treatment of @DISEASE$ was recently identified in an in silico screening.	1
+Therefore, aberrant expression of @GENE$ may be the underlying basis of @DISEASE$ symptoms.	1
+The @DISEASE$ virus, of the Coronaviridae family, has the capacity for cellular invasion through the @GENE$ does not have a lower respiratory epithelium and in the cells of the small intestine mucosa.	1
+Therefore, the proposed MADE-@GENE$ model can be used in real-time @DISEASE$ classification systems.	1
+All were taking antiretroviral therapy (ART) with @GENE$ count &gt;200 cells/mm3 and suppressed HIV viral loads at the time of @DISEASE$ diagnosis.	1
+Among patients who showed complete compliance, there was a significantly lower risk of @DISEASE$ for those prescribed @GENE$ blockers (relative risk [RR], 0.751; 95% confidence interval [CI], 0.587-0.960) or calcium channel blockers (RR, 0.768; 95% CI, 0.601-0.980).	1
+Although targeting PPI remains a challenge in drug discovery, our investigation highlights that interaction between @DISEASE$ RBD and @GENE$ PD might be prone to small molecule modulation, due to the hydrophilic nature of the bi-molecular recognition process and the presence of druggable hot spots.	1
+Early administration of @GENE$ inhibitors for patients with severe @DISEASE$ disease is associated with decreased intubation, reduced mortality, and increased discharge.	1
+The association of specific @GENE$ polymorphisms with increased susceptibility of @DISEASE$ and related CV pathologies suggests potential genetic therapies.	1
+Design of a Multiepitope-Based Peptide Vaccine against the @GENE$ of Human @DISEASE$: An Immunoinformatics Approach.	1
+Does phenotypic expression of bitter taste receptor @GENE$ show association with @DISEASE$ severity?	1
+A newly recognized Multisystem Inflammatory Syndrome in Children (@GENE$-C) has had a paradigm-shifting effect on the perception of @DISEASE$ illness severity in children.	1
+We compared the performance of three immunoassays, an in-house RBD assay, and two commercial assays, the Diasorin LIAISON @DISEASE$ S1/S1 IgG CLIA which detects antibodies against S1/S2 domains of the @GENE$ and the Zydus Kavach assay based on inactivated virus using a well-characterized panel of sera.	1
+Structure of @GENE$ from @DISEASE$ and discovery of its inhibitors.	1
+: In the inital six hours post-@DISEASE$, the copy numbers of E and @GENE$-2 genes were approximately constant, which raised 10 log-fold and continued to increase till the 12 h post-infection (hpi).	1
+Darunavir is an anti-HIV @GENE$ repurposed for @DISEASE$ treatment.	1
+@GENE$ 2: Hydroxychloroquine in the treatment of @DISEASE$.	1
+Potent inhibitors of @DISEASE$ @GENE$ derived from N-substituted isatin compounds.	1
+@DISEASE$ enters the blood stream by breaching the blood-air barrier via the lung capillary adjacent to the alveolus, and then attaches to the @GENE$ receptors on the endothelial cells.	1
+Genetic Analysis of the Coronavirus @DISEASE$ Host Protease @GENE$ in Different Populations.	1
+Potential Therapeutic Roles for Direct @GENE$ Inhibitors in @DISEASE$.	1
+Furthermore, it seems that @GENE$ is implicated in the pathogenesis of @DISEASE$ and potentially in the increased rates of human-to-human transmission.	1
+Could @GENE$ represent a new therapeutic target for the treatment and/or management of @DISEASE$-related respiratory syndrome?	1
+Initial in silico studies of representative compounds to assess their binding affinities via docking into the N-terminal RNA-binding domain (NTD) of @GENE$ of @DISEASE$ prompted further study of these molecules.	1
+We designed and synthesized two lead compounds (11a and 11b) targeting @GENE$ Both exhibited excellent inhibitory activity and potent anti-@DISEASE$ activity.	1
+We developed serologic assays for detection of @DISEASE$ neutralizing, @GENE$-specific, and nucleocapsid-specific antibodies.	1
+We reviewed TH17 responses in patients with @DISEASE$ and proposed an FDA approved @GENE$ inhibitor Fedratinib for reducing mortality of patients with TH17 type immune profiles.	1
+@GENE$: A review on expression profile and its association with human disorders with special focus on @DISEASE$.	1
+PEDV IgG and @GENE$ antibodies were developed toward the beginning of the second week of @DISEASE$.	1
+The highest log octanol/water partition coefficient, high number of hydrogen bond donors and acceptors, lowest non-bonded interaction energy between the receptor and the ligand, and high binding affinity were considered for the best ligand for the envelope (mycophenolic acid: log P = 3.00; DG = -10.2567 kcal/mol; pKi = 7.713 µM) and @GENE$ (1-[(2,4-dichlorophenyl)methyl]pyrazole-3,5-dicarboxylic acid: log P = 2.901; DG = -12.2112 kcal/mol; pKi = 7.885 µM) of @DISEASE$.	1
+The present study indicates that changes toward a higher number of HRBs than before confinement, as well as the prevalence of each @GENE$ except screen exposure, decreased during the first 3 weeks of @DISEASE$ confinement, and thus the Spanish adult population may have adapted to the new situational context by gradually improving their health behaviors.	1
+Additionally, the generation of antiphospholipid antibodies associated with @DISEASE$ may also promote an increase in @GENE$.	1
+Preliminary statements addressing clinical questions related to @GENE$-C and hyperinflammation in @DISEASE$ were developed based on evidence reports.	1
+Structural insight to hydroxychloroquine-@GENE$ complexation from @DISEASE$: inhibitor modelling study through molecular docking and MD-simulation study.	1
+The docking results were promised and indicated that the reported ligands can firmly bind to the @DISEASE$ @GENE$ and leads to inhibition of its infectious impact.	1
+Lumbar puncture was normal and PCR's for @DISEASE$ virus on @GENE$ were negative.	1
+Increasing interest has been highlighted on the possible preventative role and adjunct treatment of @GENE$, glycoprotein of human secretions part of a non-specific defensive system, known to play a crucial role against microbial and @DISEASE$ and exerting anti-inflammatory effects on different mucosal surfaces and able to regulate iron metabolism.	1
+We aimed to investigate patterns of ChUS in @DISEASE$ patients and compare the findings with results from chest X-ray (@GENE$).	1
+In silico prediction of potential inhibitors for the @GENE$ of @DISEASE$ using molecular docking and dynamics simulation based drug-repurposing.	1
+@GENE$ levels in the early stage of @DISEASE$.	1
+Computational insights into tetracyclines as inhibitors against @DISEASE$ @GENE$ via combinatorial molecular simulation calculations.	1
+We compared these results to the expected disease burden of @DISEASE$ if sight protecting anti-@GENE$ injections were not performed.	1
+Vaccines should aim to stimulate cellular immunity @DISEASE$ and/or stimulate humoral immunity against viral proteins except for the immunodominant @GENE$.	1
+Anatomical and timely assessment of protein expression of @GENE$, @DISEASE$ specific receptor, in fetal and placental tissues: new insight for perinatal counseling.	1
+We show that human dorsal root ganglion (DRG) neurons express the @DISEASE$ receptor, @GENE$ at the RNA and protein level.	1
+The @GENE$ regulates transcription of the transmembrane protease, serine 2 (TMPRSS2), which is required for @DISEASE$ infectivity.	1
+Current evidence of ACEI/ARB-@GENE$ interaction as well as the effects of ACEIs/@DISEASE$ on viral-associated acute lung injury is summarized and discussed in this review.	1
+Before resolving and overcoming the   @DISEASE$,   with overexpression of pro-inflammatory interleukins (IL-, @GENE$), this patient will be intubated for more than 48 h and therefore needs adequate nutrition.	1
+Altogether our findings show that inflammatory cell death is induced by @DISEASE$ and that impaired @GENE$ inflammasome function or pyroptosis can lead to negative consequences for the host.	1
+The present study developed the 3D structure of the envelope and @GENE$ of @DISEASE$, and molecular docking analysis was done against various ligands.	1
+A total of 128 statements were approved by the Task Force, which were refined into 40 final guidance statements accompanied by a flow diagram depicting the diagnostic pathway for @GENE$-C. Our understanding of @DISEASE$-related syndromes in the pediatric population continues to evolve.	1
+@GENE$ was proven to increase the host immunity against @DISEASE$.	1
+We indeed emphasized that LIHC patients with high expression level of @GENE$ should be more cautious of the @DISEASE$.	1
+Patients were excluded from the trial in case of (1) known serious allergic reactions to yeast-derived products, (2) lithium carbonate therapy, (3) mechanical ventilation prior to randomization, (4) peripheral white blood cell count above 25.000/μL and/or active @DISEASE$, (5) high dose systemic steroid therapy (&gt; 20 mg methylprednisolone or equivalent), (6) enrolment in another investigational study, (7) pregnant or breastfeeding or (8) ferritin levels &gt; 2000 μg/mL. Inhaled @GENE$ 125 μg twice daily for 5 days in addition to standard care.	1
+Hyperinflammation and high levels of several cytokines, for example, @GENE$, are observed in severe @DISEASE$ cases.	1
+@DISEASE$ @GENE$ is a potential ion channel that can be inhibited by Gliclazide and Memantine.	1
+Although monocytes and protein levels in @GENE$ were only marginally increased, and our patient never experienced a hyperinflammatory state, her neurologic function deteriorated into @DISEASE$.	1
+In addition to the possible effect in invasion, azithromycin decreases the expression of some metalloproteinases (downstream to @GENE$), induces anti-viral responses in primary human bronchial epithelial infected with @DISEASE$, decreasing viral replication and release.	1
+A combination of Metformin and Sulfonylureas (SU) was most commonly associated with the risk of @DISEASE$ (65.75%) followed by @GENE$ (33.56%).	1
+Although @DISEASE$ could not be detected in conjunctival secretions, the levels of inflammatory factors, such as @GENE$, were increased in both eyes.	1
+Alternative splicing of the @GENE$ gene could similarly be modulated using SSOs to exclude critical domains required for the entry of @DISEASE$.	1
+In addition, the role of @GENE$+ T cells present in the lung of @DISEASE$ patients and relevant for viral control has not been characterized.	1
+Serum @GENE$ level is a useful biomarker for evaluating the severity of @DISEASE$.	1
+Stable introduction of the Spike activating protease @GENE$ further enhanced susceptibility to @DISEASE$ by 5-10 fold.	1
+In the present study, we employed an immunoinformatic approach to investigate the major immunogenic domains of the @DISEASE$ @GENE$ and map them among the homologue proteins of coronaviruses with tropism for animal species that are closely inter-related with the human beings population all over the world.	1
+@DISEASE$ and @GENE$: Nonsynonymous Mutations, Functional Domains, and Viral Pathogenesis.	1
+The @GENE$-angiotensin system (RAS) and angiotensin-converting enzymes have received a good deal of attention as possible pathways involved in @DISEASE$ pathogenesis.	1
+Furthermore, @DISEASE$ replication was also strongly inhibited by the synthetic @GENE$ inhibitor MI-1851 in human airway cells.	1
+@DISEASE$ RNA Extraction Using Magnetic Beads for Rapid Large-Scale Testing by RT-qPCR and RT-@GENE$.	1
+Cell type-specific expression of the putative @DISEASE$ receptor @GENE$ in human hearts.	1
+Moreover, @GENE$ expression levels had significant inverse correlations with @DISEASE$ proliferation, stemness, and epithelial-mesenchymal transition.	1
+Patients with a history of extreme prematurity may present with @GENE$-C in the presence of @DISEASE$ and are a group of special concern.	1
+While @GENE$-0820 and the nucleotide analog remdesivir blocked @DISEASE$, viral breakthrough occurred.	1
+While @GENE$-0820 and the nucleotide analog remdesivir blocked @DISEASE$, viral breakthrough occurred.	1
+@DISEASE$ were positively related to @GENE$ levels but negatively related to sleep quality.	1
+The questionnaire comprised the Korean version of the Multidimensional Calling Measure to assess occupational calling, the Psychosocial Well-being Index-short form for psychological health, and the Control, Autonomy, Self-realization, and Pleasure (@GENE$-19) scale for @DISEASE$.	1
+Effect of recombinant human @GENE$ on lymphocyte subsets in patients with @DISEASE$.	1
+@GENE$, a receptor on host cells, is a novel route for @DISEASE$ invasion.	1
+@GENE$ as a Multifaceted Player and Potential Therapeutic Target in @DISEASE$.	1
+@DISEASE$ and @GENE$ blood groups.	1
+Predictive effects of @GENE$ and IgG combination to assess pulmonary exudation progression in @DISEASE$ patients.	1
+Associations between serum amyloid A, @GENE$, and @DISEASE$: A cross-sectional study.	1
+In this work, gene co-expression networks were reconstructed from RNA-Seq expression data with the aim of analyzing the time-resolved effects of gene @GENE$ in the immune response against the coronavirus responsible for murine @DISEASE$ (MHV).	1
+The purpose of this review is to summarize the evidence for the existence of elevated @GENE$(ogen) in @DISEASE$ patients with these comorbid conditions.	1
+@DISEASE$ and its @GENE$ directly stimulated platelets to facilitate the release of coagulation factors, the secretion of inflammatory factors, and the formation of leukocyte-platelet aggregates.	1
+Indian Society of Anaesthesiologists (@GENE$ National) Advisory and Position Statement regarding @DISEASE$.	1
+A variety of repurposed drugs and investigational drugs such as remdesivir, chloroquine, hydroxychloroquine, ritonavir, lopinavir, @GENE$, and other potential drugs have been studied for @DISEASE$ treatment.	1
+Further, the @DISEASE$ patients whose illness entered 7-10 days, age &gt; 50 years, and elevated @GENE$ levels should be given additional medical considerations.	1
+iSCAN: An RT-@GENE$-coupled CRISPR-Cas12 module for rapid, sensitive detection of @DISEASE$.	1
+Epigenetic control of the @GENE$ might be a target for prevention and therapy in @DISEASE$.	1
+Moreover, we found that some bismuth salts could effectively inhibit both the NTPase and @GENE$ activities of @DISEASE$ nsp13 in a dose-dependent manner.	1
+@GENE$-angiotensin system and @DISEASE$: there is a before and after.	1
+Patients without @DISEASE$ still exhibited mild illness and had elevated SAA levels but not @GENE$ levels.	1
+Some other routes of entry of @DISEASE$ are also mentioned (e.g., @GENE$); however, these findings are not structurally validated.	1
+@GENE$ level was significantly varied with @DISEASE$ and treatment.	1
+Is @GENE$ Predictor of Mortality in @DISEASE$?	1
+The @GENE$, erythrocyte sedimentation rate, and lactate dehydrogenase showed significantly positive correlation with the severity of @DISEASE$ assessed on initial CT (Rrange, 0.36-0.75; P &lt; 0.05).	1
+4 of 5 patients had elevated @DISEASE$-@GENE$-antibodies (1.61 ± 0.82).	1
+We discuss the unique role of IFNλ in fine-tuning antiviral immunity in the respiratory tract to achieve optimal protection and minimal host damage and review early evidence that @DISEASE$ may impair IFNλ induction, leading to a delayed type I @GENE$-dominated response that triggers hyperinflammation and severe disease.	1
+This study took an immunoinformatics approach to identify significant cytotoxic T lymphocyte (CTL) and B cell epitopes in the @DISEASE$ @GENE$.	1
+@GENE$ derivatives are components of vaccine candidates and diagnostic assays, as well as tools for research into the biology and immunology of @DISEASE$.	1
+A @GENE$-POWERED, PATIENT-RESPONSIVE AUTOMATIC RESUSCITATOR FOR USE IN @DISEASE$: A BENCH AND EXPERIMENTAL STUDY.	1
+@DISEASE$ severity associates with pulmonary redistribution of @GENE$+ DC and inflammatory transitional and nonclassical monocytes.	1
+Furthermore, these inhibitors interact with the catalytic dyad in the active site of the @DISEASE$ @GENE$ that is especially important in viral replication.	1
+@GENE$ is a subclone of the human @DISEASE$ HepG2 cell line with strong contact inhibition of growth.	1
+Revisiting the @GENE$ Pathway: An Opportunity for Adjunctive Intervention in @DISEASE$?	1
+Methods - To provide data regarding any potential fetal/neonatal cardiotoxicity, we leveraged a unique opportunity in which neonatal electrocardiograms (ECGs) and HCQ blood levels were available in a recently completed study evaluating the efficacy of HCQ 400mg daily to prevent the recurrence of @DISEASE$ associated with anti-@GENE$/Ro antibodies.	1
+In addition, substitution of the two amino acids (KS) from @GENE$ of @DISEASE$ was previously reported to revert loss of interferon-alpha expression.	1
+Pathogenesis of @DISEASE$ in Transgenic Mice Expressing Human @GENE$.	1
+Our objective was to quantify trends in emergency medical services (EMS) incidents as the effects of the @DISEASE$ spread across the United States and to determine if there was an increase in @GENE$-attended deaths.	1
+@GENE$ Gene Polymorphism and Severe Lung Injury in Patients with @DISEASE$.	1
+Cell proliferation, migration, invasion, and related protein expression were detected to examine the effect of the @GENE$/sirtuin 1 expression on @DISEASE$.	1
+The concern is that the use of ACEIs and @DISEASE$ will increase the expression of @GENE$ and increase patient susceptibility to viral host cell entry and propagation.	1
+Among the studied compounds, we found that dithymoquinone (DTQ), with binding affinity of -8.6 kcal/mol compared to a positive control (chloroquine, -7.2 kcal/mol) , has the high potential of binding at @DISEASE$:@GENE$ interface and thus could be predicted as a plausible inhibitor to disrupt viral-host interactions.	1
+Plasma anti-RBD or anti-@GENE$ titers of ≥1:1350 may provide critical information about protection against @DISEASE$ disease.	1
+@DISEASE$: a case for inhibiting @GENE$?	1
+In silico validation of coumarin derivatives as potential inhibitors against @GENE$, NSP10/NSP16-Methyltransferase, Phosphatase and Endoribonuclease of @DISEASE$.	1
+The @GENE$ (Mpro) of @DISEASE$ plays a vital role in disease propagation by processing the polyproteins which are required for its replication.	1
+@GENE$ inhibition during the @DISEASE$ epidemic: Friend or foe?	1
+We think tamoxifen may increase the @DISEASE$ risk due to its antiestrogen and @GENE$ inhibitory effects.	1
+@GENE$, Metformin, and @DISEASE$.	1
+@GENE$ and @DISEASE$: another brick in the wall.	1
+In our study, we have evaluated an in-house developed ELISA for the detection of the immunoglobulin classes A, G and M directed against the full-length @GENE$ from @DISEASE$.	1
+Conclusion: The residents in Anhui province have a good @GENE$ about @DISEASE$, yet it is necessary to strengthen the community publicity, the mental health maintenance of residents and students' health education.	1
+Higher levels of NLR and @GENE$ at admission were associated with poor prognosis of individuals with moderate @DISEASE$.	1
+@DISEASE$ receptor @GENE$-dependent implications on the cardiovascular system: From basic science to clinical implications.	1
+Identification of key interactions between @DISEASE$ @GENE$ and inhibitor drug candidates.	1
+KEGG and GO pathway analysis furthermore identified links between PADs and inflammatory pathways, in particular between @GENE$ and @DISEASE$, as well as identifying links for PADs with a range of comorbidities.	1
+Elevated level of @GENE$ may be an early marker to predict risk for severity of @DISEASE$.	1
+Patients with @DISEASE$ also had significantly higher inpatient mortality (31% vs 20%, P = 0.046) and need for renal replacement therapy (33% vs 11%, P &lt; 0.0001) compared to the non-@GENE$ group.	1
+Therefore, we performed a docking study to explore the interaction of IONPs (Fe2O3 and Fe3O4) with the @GENE$ binding domain (S1-RBD) of @DISEASE$ that is required for virus attachment to the host cell receptors.	1
+Patients exhibited @DISEASE$ and elevated inflammatory markers, including @GENE$ and ferritin.	1
+Centers from Europe and United States have reported an exceedingly high number of children with a severe inflammatory syndrome in the setting of @DISEASE$, which has been termed multisystem inflammatory syndrome in children (@GENE$-C).	1
+Infant protection may be due to maternal antibodies and antiviral proteins in milk such as @GENE$ that are known to protect against @DISEASE$.	1
+Additionally, in vitro evidence suggests that inhibition of the transcription factor nuclear factor-κB (@GENE$) by ibuprofen may have a role in reducing excess inflammation or cytokine release in @DISEASE$ patients.	1
+The indispensable function of the @GENE$ in virus replication makes this enzyme a promising target for inhibitors screening and drug discovery to treat novel @DISEASE$.	1
+Our discovery provides clues for pathogenesis and targeted drug therapy towards @GENE$ expression for prevention and adjuvant therapy of @DISEASE$.	1
+Collateral damage of @DISEASE$-lockdown in Germany: decline of NSTE-@GENE$ admissions.	1
+Could urinary @GENE$ level help identify individuals susceptible to @DISEASE$ and complication?	1
+Molecular docking calculations showed that most of the synthesized compounds possessed good binding affinity to the @DISEASE$ @GENE$ (Mpro) in comparable to Darunavir.	1
+Three of them, all in @GENE$, were predicted to be damaging, making them the most promising population-specific markers related to @DISEASE$.	1
+Due to the nature of working and living conditions on farms, social distancing among farmworkers is nearly impossible and farmworkers were not provided with Personal Protective Equipment (PPE) until @DISEASE$ were at an alarmingly high rate in @GENE$.	1
+Men more vulnerable to @DISEASE$: explained by @GENE$ on the X chromosome?	1
+RT-@GENE$ specifically detected @DISEASE$ in both simulated patient samples and clinical specimens.	1
+We describe the development of the comprehensive open Canadian Non-Pharmaceutical Intervention (CAN-@GENE$) data set, which identifies and classifies all NPIs implemented in regions across Canada in response to @DISEASE$, and provides an accompanying description of geographic and temporal heterogeneity.	1
+@GENE$ inhibitors as host-directed antiviral agents with potential for the treatment of @DISEASE$.	1
+@GENE$ (and more specifically enteric-coated LF because of increased bioavailability) may consequently be of preventive and therapeutic value during the present @DISEASE$.	1
+Amongst these changes, updates in hospital transport guidelines and practices related to IV-@GENE$ and MT may affect the perceived care and outcome of @DISEASE$ patients.	1
+Therapeutic Potential of @GENE$a Cells in @DISEASE$.	1
+A @DISEASE$ count and an increased high-sensitivity @GENE$ level were the most common laboratory findings.	1
+High Expression of @GENE$ on Keratinocytes Reveals Skin as a Potential Target for @DISEASE$.	1
+As a result, IBGE postponed the 2020 Demographic Census and started to formulate a @DISEASE$ @GENE$.	1
+MR activation may therefore protect organs from binding the @DISEASE$ by reducing @GENE$ expression.	1
+@GENE$-based immunodetection assay to quantify @DISEASE$.	1
+Sequencing of the @GENE$ of the viral genome showed 100% identity among samples, suggesting that the same strain caused the @DISEASE$.	1
+An update on @DISEASE$ for the otorhinolaryngologist - a Brazilian Association of Otolaryngology and Cervicofacial Surgery (ABORL-@GENE$) Position Statement.	1
+Further optimizations suggested a lead molecule that may prove fruitful in the development of potent inhibitors against the @GENE$ of @DISEASE$.	1
+This study aims to provide a comprehensive molecular profiling of the immune cell-enriched @DISEASE$ interacting protein @GENE$.	1
+From February 21 to April 24, 2020, 66 patients diagnosed with @DISEASE$ at Chungnam National University Hospital were analyzed; all patients underwent routine urinalysis and were tested for serum creatinine, urine protein to creatinine ratio (PCR), and urine @GENE$ to creatinine ratio (ACR).	1
+@GENE$ of @DISEASE$ as a therapeutic target.	1
+@DISEASE$ and the Heart: @GENE$ Level is Not Destiny, But the Company It Keeps May Hold the Fate.	1
+In this retrospective observational study, 11% of @DISEASE$ patients had increased hs-@GENE$ levels (&gt;40 ng/L) on admission.	1
+Research and audit activities will resume and we will find new ways for supporting pregnant women with @DISEASE$ to choose their preferred glucose monitoring and @GENE$ delivery.	1
+Therefore, the current study employed in silico tools to rationally identify new possible @DISEASE$ @GENE$ (Mpro) inhibitors.	1
+This literature review aims to present the importance of utilizing the human @GENE$ transgenic mouse model to better understand the pathogenesis of @DISEASE$ and develop both therapeutics and vaccines.	1
+@GENE$ as a Therapeutic Target for @DISEASE$; its Role in Infectious Processes and Regulation by Modulators of the RAAS System.	1
+Targeting the @DISEASE$ @GENE$ using FDA-approved Isavuconazonium, a P2-P3 α-ketoamide derivative and Pentagastrin: An in-silico drug discovery approach.	1
+These results provide a molecular basis for inhibition of the @DISEASE$ @GENE$ by these nucleotide analogues.	1
+The epitope of CR3022 does not overlap with the @GENE$ binding site within @DISEASE$ RBD.	1
+@GENE$c is a biomarker with a central role in the diagnosis and follow-up of patients with @DISEASE$, although not a perfect one.	1
+@GENE$ and LDH were independent predictive parameters for assessing the severity of @DISEASE$.	1
+Lymphocyte subsets in peripheral blood and typing of human leukocyte antigens were analyzed in all groups, with @GENE$ genes analyzed only in @DISEASE$-positive patients and healthy controls.	1
+Epitope characterization of @GENE$7-specific T cells showed the recognition of protein fragments that are conserved among animal betacoronaviruses but have low homology to '@DISEASE$' human-associated coronaviruses.	1
+This renders the @DISEASE$ @GENE$b a highly relevant drug target in the viral replication process.	1
+Immunoregulation with @GENE$ inhibitors to prevent @DISEASE$ severity: A novel intervention strategy beyond vaccines and specific antiviral medicines.	1
+Tocilizumab is an @GENE$ inhibitor that has shown promise in improving outcomes in patients with @DISEASE$.	1
+Multivariable Cox regression revealed that comedications with known risk of @DISEASE$ (HR = 11.28, 95% CI 1.08-117.41), higher neutrophil-to-lymphocyte (NLR) ratio (HR = 1.10, 95% CI 1.03-1.18 per unit increase) and higher serum hs-@GENE$ (HR = 4.09, 95% CI 1.36-12.2 per unit increase) were major contributors to moderate-to-severe QTc prolongation.	1
+What is Known: • Multisystem inflammatory syndrome in children (@GENE$-C) has been described associated with @DISEASE$.	1
+@DISEASE$ may use co-receptors/auxiliary proteins as @GENE$ partner to facilitate the virus entry.	1
+In addition, there was co-localization of @DISEASE$ spike glycoproteins with C4d and @GENE$-9 in the interalveolar septa and the cutaneous microvasculature of 2 cases examined.	1
+Testing for @DISEASE$, including PCR, rapid test serology and ELISA method for @GENE$ and IgG antibodies yielded negative results in all cases.	1
+@DISEASE$ women had a higher BMI (p &lt; 0.001), systolic (p &lt; 0.0001) and diastolic (p &lt; 0.05) blood pressure, waist circumference (p &lt; 0.0001), testosterone (p &lt; 0.0001), free androgen index (p &lt; 0.0001) and @GENE$ (p &lt; 0.0001).	1
+Of 86 samples from @DISEASE$ PCR-negative patients, including 28 samples positive for common human coronavirus strains, 76 tested negative and 10 tested positive for @GENE$ (88.4% agreement, 95% CI: 79.9-93.6) while 84 tested negative and 2 tested positive for IgG (97.7% agreement, 95% CI: 91.9-99.6).	1
+In comparison with HD, the γδ T cell percentage decreased, while the activation marker @GENE$ expression increased in response to @DISEASE$.	1
+Transcriptome &amp; viral growth analysis of @DISEASE$-infected Vero @GENE$-81 cells.	1
+Use of the @GENE$ Antagonist Tocilizumab in Hospitalized @DISEASE$ Patients.	1
+Admission to the PICU was significantly associated with higher @GENE$, procalcitonin, and @DISEASE$ type natriuretic peptide levels and platelet counts (P &lt; .05 for all).	1
+@GENE$-3 offers a cultural framework for a community-engaged global communication response to @DISEASE$.	1
+Bioactive compounds with possible inhibitory activity of @GENE$; a gate to manage and prevent @DISEASE$.	1
+@DISEASE$ enters the cells through endocytosis process, which is possibly facilitated, via a pH dependent endosomal @GENE$ cathepsins.	1
+In order to follow biosafety recommendations, we used Ultrasound-Guided Minimally Invasive Autopsy (@GENE$-US) to assess the systemic involvement of @DISEASE$ and present the results of ten initial autopsies.	1
+Abnormal white blood cell counts have poor sensitivity for @DISEASE$; procalcitonin and @GENE$ levels, when available, are more informative.	1
+Shortly after the first @DISEASE$ case was reported in the United States, our organization assembled an outbreak committee, designed to support the 1794 @GENE$ residents and the 101 communities in which they reside.	1
+Relevant inflammatory @DISEASE$ is associated with severity of disease, and @GENE$ inhibition is a cornerstone treatment for hyperinflammatory diseases.	1
+Cardiac injury commonly occurs in critically ill @DISEASE$ patients, with increased levels of hs-@GENE$ beyond day 3 since admission portending a poor prognosis.	1
+Here, we combine homology modeling, molecular docking, molecular dynamics simulation, and binding affinity calculations to determine potential targets for toremifene, a selective @GENE$ modulator which we have previously identified as a @DISEASE$ inhibitor.	1
+Subsequently, molecular docking analysis revealed that the recognition and binding groups of GC376 within the active site of @DISEASE$ @GENE$ provide important new information for the optimization of GC376.	1
+Development of a Portable, Ultra-Rapid and Ultra-Sensitive Cell-Based Biosensor for the Direct Detection of the @DISEASE$ S1 @GENE$ Antigen.	1
+Vaccine Design from the Ensemble of @GENE$ Epitopes of @DISEASE$: An Immunoinformatics Approach.	1
+Complement and @GENE$-enriched neutrophil extracellular traps are key drivers in @DISEASE$ immunothrombosis.	1
+The computer-aided drug design approach proved that the compound tinosponone from T. cordifolia is a potent inhibitor of 3CL @GENE$ of @DISEASE$.	1
+First-in-Man: Case Report of Selective @GENE$ Apheresis in a Patient with @DISEASE$.	1
+@DISEASE$ RT-PCR remained positive after a median of 40 days from symptoms onset in six (32%) individuals, four of whom had severe disease or low nadir @GENE$ cell counts.	1
+Prognostic value of @GENE$ in patients with @DISEASE$.	1
+According to the limited literature, @DISEASE$ utilizes @GENE$ as its receptor and causes severe hypoxemia.	1
+Finally, unbiased computational ligand docking indicates that heparan sulfate interacts with the GAG-binding motif at the S1/S2 site on each monomer interface in the trimeric @DISEASE$ @GENE$, and at another site (453-459 (YRLFRKS)) when the receptor-binding domain is in an open conformation.	1
+Optimal utilization of @GENE$ imaging during @DISEASE$.	1

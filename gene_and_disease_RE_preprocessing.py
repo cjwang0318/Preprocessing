@@ -45,7 +45,7 @@ process_type = "disease-gene"  # gene or disease
 
 target_dict = {}
 results = []
-writedata = []
+writedata = ["sentence\tlabel\n"]
 lines = read_file(data_name, 1)  # 讀檔且第一行跳過
 used_count = 0
 for line in lines:
@@ -67,7 +67,7 @@ for line in lines:
         for disease in diseases:  # 處理disease tag欄位
             disease_id = str(disease).replace(chr(34), chr(39))  # 將雙引號轉換成單引號
             line = line.replace(disease_id, "@DISEASE$")
-        writedata.append(str(used_count) + "\t" + line + "\t1\n")
+        writedata.append(line + "\t1\n")
 write_file(process_type + ".txt", writedata)
-print(used_count)
+print("Total selected number="+str(used_count))
 print("Processing Done")
