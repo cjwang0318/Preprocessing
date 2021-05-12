@@ -5,7 +5,9 @@ import pandas as pd
 datatype = "NER"  # NER or RE
 training_proportion = 0.8  # range=0~1
 random_seed = 0  # 填1其他引數隨機陣列是一樣的;填0或不填，每次都會不一樣
-data_name = 'D:/PycharmProjects/Preprocessing/disease-gene.txt'
+#data_name = 'D:/PycharmProjects/Preprocessing/DG_data/disease-gene-merge.txt'
+#data_name = 'C:/Users/ITRI/Desktop/gene_evidences.tsv'
+data_name = 'C:/Users/ITRI/Desktop/train.tsv'
 skip_lines_num = 1  # 第一行不要讀取
 result_dir="./"+datatype+"_Format/"
 tool_box.mkdir(result_dir)
@@ -22,7 +24,7 @@ if (datatype is "RE"):
     # print(data.head())
     X = data["sentence"]
     Y = data["label"]
-    x_train, x_test, y_train, y_test = train_test_split(X, Y, train_size=training_proportion, random_state=random_seed)
+    x_train, x_test, y_train, y_test = train_test_split(X, Y, train_size=training_proportion, random_state=random_seed, stratify=Y)
     train_data = pd.concat([x_train, y_train], axis=1)
     test_data = pd.concat([x_test, y_test], axis=1)
     test_data=test_data.reset_index(drop=True) #重制index由0開始

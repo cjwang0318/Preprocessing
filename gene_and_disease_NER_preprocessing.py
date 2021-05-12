@@ -3,7 +3,7 @@
 # conda install lxml
 # conda install NLTK
 
-#先執行train_test_split.py，並把train_test_split.py中的datatype設定為NER，再執行本程式。
+# 先執行train_test_split.py，並把train_test_split.py中的datatype設定為NER，再執行本程式。
 from bs4 import BeautifulSoup
 import re
 import nltk
@@ -26,27 +26,27 @@ def remove_items(test_list, item):
 
 
 def read_file(path, skip_lines_num):
-    with open(path) as f:
+    with open(path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     lines = lines[skip_lines_num:]
     return lines
 
 
 def write_file(path, write_data):
-    with open(path, 'w') as writer:
+    with open(path, 'w', encoding='utf-8') as writer:
         writer.writelines(write_data)
 
 
 # --setup paramaters
-data_name = 'gene_evidences.tsv'
+data_name = './NER_Format/DisGeNET_rawdata/test.tsv'
 process_col_number = 1  # 取第2個欄位
-process_type = "disease"  # gene or disease
+process_type = "gene"  # gene or disease
 # ------------------
 
 target_dict = {}
 results = []
 writedata = []
-lines = read_file(data_name, 1)  # 讀檔且第一行跳過
+lines = read_file(data_name, 0)  # 讀檔不跳行
 for line in lines:
     temp = line.split("\t")
     line = temp[process_col_number]
@@ -104,5 +104,5 @@ for line in lines:
             writedata.append(results[i] + "\tO" + "\n")
         # print(results[i])
     writedata.append("\n")
-write_file(process_type + ".txt", writedata)
+write_file(process_type + ".tsv", writedata)
 print("Processing Done")
