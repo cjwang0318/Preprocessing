@@ -3,6 +3,7 @@
 # conda install lxml
 # conda install NLTK
 
+#請先執行本程式，再去執行train_test_split.py，並把train_test_split.py中的datatype設定為RE
 from bs4 import BeautifulSoup
 import re
 import nltk
