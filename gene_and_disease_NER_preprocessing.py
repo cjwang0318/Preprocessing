@@ -38,14 +38,17 @@ def write_file(path, write_data):
 
 
 # --setup paramaters
-data_name = './NER_Format/DisGeNET_rawdata/test.tsv'
+data_name = './NER_Format/DisGeNET_rawdata/devel.tsv'
+output_file_name="./devel.tsv"
 process_col_number = 1  # 取第2個欄位
-process_type = "gene"  # gene or disease
+process_type = "disease"  # gene or disease
+max_sentence_length = 100  # 最大句子長度
 # ------------------
 
 target_dict = {}
 results = []
 writedata = []
+filter_num = 0
 lines = read_file(data_name, 0)  # 讀檔不跳行
 for line in lines:
     temp = line.split("\t")
@@ -90,7 +93,11 @@ for line in lines:
     # print(line)
     # print(gene_dict)
     results = tokenize(line)  # 英文斷詞
-    remove_items(results, "$")
+    results = remove_items(results, "$")
+    if len(results) > max_sentence_length:  # 如果句子長度大於max_sentence_length就pass不處理
+        #print(len(results))
+        filter_num = filter_num + 1
+        continue
     for i in xrange(len(results)):
         dict_check = target_dict.get(results[i], "empty")
         if (dict_check != "empty"):
@@ -104,5 +111,6 @@ for line in lines:
             writedata.append(results[i] + "\tO" + "\n")
         # print(results[i])
     writedata.append("\n")
-write_file(process_type + ".tsv", writedata)
+write_file(output_file_name, writedata)
+print("The Number of Filtered Sentences =" + str(filter_num))
 print("Processing Done")
