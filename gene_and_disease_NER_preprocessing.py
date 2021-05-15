@@ -38,11 +38,12 @@ def write_file(path, write_data):
 
 
 # --setup paramaters
-data_name = './NER_Format/DisGeNET_rawdata/devel.tsv'
-output_file_name="./devel.tsv"
+data_name = './NER_Format/DisGeNET_rawdata/train_dev.tsv'
+#data_name = './gene_evidences.tsv'
+output_file_name="./train_dev.tsv"
 process_col_number = 1  # 取第2個欄位
 process_type = "disease"  # gene or disease
-max_sentence_length = 100  # 最大句子長度
+max_sentence_length = 40  # 最大句子長度
 # ------------------
 
 target_dict = {}
@@ -61,6 +62,9 @@ for line in lines:
     target_dict.clear()
     results.clear()
     if (process_type is "gene"):
+        if len(genes)==0: #如果句子裡面都沒有gene就跳過
+            filter_num = filter_num + 1
+            continue
         for gene in genes:  # 處理gene tage欄位
             if (genes != None):
                 # print("GeneName: " + gene.text)
@@ -76,6 +80,9 @@ for line in lines:
                 # print("disease_id= " + disease_id)
                 line = line.replace(disease_id, disease.text)
     if (process_type is "disease"):
+        if len(diseases) == 0:  # 如果句子裡面都沒有disease就跳過
+            filter_num = filter_num + 1
+            continue
         for disease in diseases:  # 處理gene tage欄位
             if (disease != None):
                 # print("GeneName: " + gene.text)
@@ -98,6 +105,7 @@ for line in lines:
         #print(len(results))
         filter_num = filter_num + 1
         continue
+    #print(str(len(results))+"\t"+line) #印出句子長度與句子內容
     for i in xrange(len(results)):
         dict_check = target_dict.get(results[i], "empty")
         if (dict_check != "empty"):
@@ -112,5 +120,6 @@ for line in lines:
         # print(results[i])
     writedata.append("\n")
 write_file(output_file_name, writedata)
+print("The Number of used Sentences =" + str(len(lines)-filter_num))
 print("The Number of Filtered Sentences =" + str(filter_num))
 print("Processing Done")
