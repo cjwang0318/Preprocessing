@@ -11,6 +11,8 @@ import nltk
 # from nltk.tokenize import word_tokenize
 from joblib.numpy_pickle_utils import xrange
 
+import tool_box
+
 
 def tokenize(sent):
     sent = nltk.word_tokenize(sent)
@@ -19,9 +21,8 @@ def tokenize(sent):
 
 def remove_items(test_list, item):
     # remove the item for all its occurrences
-    for i in test_list:
-        if (i == item):
-            test_list.remove(i)
+    test_list=list(filter(lambda x: x != item, test_list))
+    #print(test_list)
     return test_list
 
 
@@ -42,7 +43,7 @@ data_name = './NER_Format/DisGeNET_rawdata/train_dev.tsv'
 #data_name = './gene_evidences.tsv'
 output_file_name="./train_dev.tsv"
 process_col_number = 1  # 取第2個欄位
-process_type = "disease"  # gene or disease
+process_type = "gene"  # gene or disease
 max_sentence_length = 40  # 最大句子長度
 # ------------------
 
@@ -99,8 +100,11 @@ for line in lines:
                 line = line.replace(gene_id, gene.text)
     # print(line)
     # print(gene_dict)
+    line=tool_box.replace_punctuation(line)
     results = tokenize(line)  # 英文斷詞
-    results = remove_items(results, "$")
+    #print(results)
+    results = remove_items(results, '$')
+    #print(results)
     if len(results) > max_sentence_length:  # 如果句子長度大於max_sentence_length就pass不處理
         #print(len(results))
         filter_num = filter_num + 1
@@ -109,7 +113,9 @@ for line in lines:
     for i in xrange(len(results)):
         dict_check = target_dict.get(results[i], "empty")
         if (dict_check != "empty"):
-            temp = dict_check.split(" ")
+            dict_check=tool_box.replace_punctuation(dict_check)
+            temp = tokenize(dict_check)  # 英文斷詞
+            temp = remove_items(temp, '$')
             for j in xrange(len(temp)):
                 if (j == 0):
                     writedata.append(temp[j] + "\tB" + "\n")
