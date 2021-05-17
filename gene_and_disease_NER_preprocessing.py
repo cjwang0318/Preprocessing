@@ -21,8 +21,8 @@ def tokenize(sent):
 
 def remove_items(test_list, item):
     # remove the item for all its occurrences
-    test_list=list(filter(lambda x: x != item, test_list))
-    #print(test_list)
+    test_list = list(filter(lambda x: x != item, test_list))
+    # print(test_list)
     return test_list
 
 
@@ -39,9 +39,9 @@ def write_file(path, write_data):
 
 
 # --setup paramaters
-data_name = './NER_Format/DisGeNET_rawdata/train_dev.tsv'
+data_name = './NER_Format/DisGeNET_rawdata/test.tsv'
 #data_name = './gene_evidences.tsv'
-output_file_name="./train_dev.tsv"
+output_file_name = "./test.tsv"
 process_col_number = 1  # 取第2個欄位
 process_type = "gene"  # gene or disease
 max_sentence_length = 40  # 最大句子長度
@@ -55,7 +55,9 @@ lines = read_file(data_name, 0)  # 讀檔不跳行
 for line in lines:
     temp = line.split("\t")
     line = temp[process_col_number]
-    # print(line)
+    #print(line)
+    line = tool_box.remove_unknown_word(line) #刪除檔案中特殊字元
+    #print(line)
     soup = BeautifulSoup(line, "lxml")
     genes = soup.find_all("span", class_="gene", id=re.compile("[A-Za-z]+"))  # read gene tag
     diseases = soup.find_all("span", class_="disease", id=re.compile("[A-Za-z]+"))  # read disease tag
@@ -63,7 +65,7 @@ for line in lines:
     target_dict.clear()
     results.clear()
     if (process_type is "gene"):
-        if len(genes)==0: #如果句子裡面都沒有gene就跳過
+        if len(genes) == 0:  # 如果句子裡面都沒有gene就跳過
             filter_num = filter_num + 1
             continue
         for gene in genes:  # 處理gene tage欄位
@@ -100,20 +102,20 @@ for line in lines:
                 line = line.replace(gene_id, gene.text)
     # print(line)
     # print(gene_dict)
-    line=tool_box.replace_punctuation(line)
+    line = tool_box.replace_punctuation(line)
     results = tokenize(line)  # 英文斷詞
-    #print(results)
+    # print(results)
     results = remove_items(results, '$')
-    #print(results)
+    # print(results)
     if len(results) > max_sentence_length:  # 如果句子長度大於max_sentence_length就pass不處理
-        #print(len(results))
+        # print(len(results))
         filter_num = filter_num + 1
         continue
-    #print(str(len(results))+"\t"+line) #印出句子長度與句子內容
+    # print(str(len(results))+"\t"+line) #印出句子長度與句子內容
     for i in xrange(len(results)):
         dict_check = target_dict.get(results[i], "empty")
         if (dict_check != "empty"):
-            dict_check=tool_box.replace_punctuation(dict_check)
+            dict_check = tool_box.replace_punctuation(dict_check)
             temp = tokenize(dict_check)  # 英文斷詞
             temp = remove_items(temp, '$')
             for j in xrange(len(temp)):
@@ -126,6 +128,6 @@ for line in lines:
         # print(results[i])
     writedata.append("\n")
 write_file(output_file_name, writedata)
-print("The Number of used Sentences =" + str(len(lines)-filter_num))
+print("The Number of used Sentences =" + str(len(lines) - filter_num))
 print("The Number of Filtered Sentences =" + str(filter_num))
 print("Processing Done")

@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
 import string
+import re
 
 def remove_items_in_list(test_list, item):
     # remove the item for all its occurrences
@@ -30,6 +31,27 @@ def replace_punctuation(str):
         str = str.replace(i, "$"+i+"$")
     return str
 
+def remove_chinese_punctuation(line, strip_all=True):
+    #漢字的範圍為”\u4e00-\u9fa5“，這個是用Unicode表示的，所以前面必須要加”u“
+    #字元”r“的意思是表示忽略後面的轉義字元，這樣簡化了後面正則表示式裡每遇到一個轉義字元還得挨個轉義的麻煩
+    if strip_all:
+        rule = re.compile(r"[^a-zA-Z0-9\u4e00-\u9fa5]", re.U)
+        line = rule.sub('',line)
+    else:
+        punctuation = """！？｡＂＃＄％＆＇（）＊＋－／：；＜＝＞＠［＼］＾＿｀｛｜｝～｟｠｢｣､、〃》「」『』【】〔〕〖〗〘〙〚〛〜〝〞〟〰〾〿–—‘'‛“”„‟…‧﹏"""
+        re_punctuation = "[{}]+".format(punctuation)
+        line = re.sub(re_punctuation, "", line)
+    return line.strip()
+
+def remove_unknown_word(sentence):
+    unknow_list="、◦™‑•"
+    sentence=sentence.replace("，",",")
+    sentence = sentence.translate(str.maketrans('', '', unknow_list))
+    return sentence
+
 #test area
 #a="Type-(I) 2.48"
 #print(replace_punctuation(a))
+
+#str=remove_unknown_word("、CD3、")
+#print(str)
