@@ -43,7 +43,7 @@ data_name = './NER_Format/DisGeNET_rawdata/test.tsv'
 #data_name = './gene_evidences.tsv'
 output_file_name = "./test.tsv"
 process_col_number = 1  # 取第2個欄位
-process_type = "gene"  # gene or disease
+process_type = "disease"  # gene or disease
 max_sentence_length = 40  # 最大句子長度
 # ------------------
 
