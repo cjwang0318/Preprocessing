@@ -7,8 +7,8 @@ import pandas as pd
 boshiamy_file_name = './dictionary/Basic.txt'
 data_path = './data/'
 result_path = "./result/"
-data_list = ['train.txt', 'dev.txt', 'test.txt']
-# data_list = ['dev.txt']
+#data_list = ['train.txt', 'dev.txt', 'test.txt']
+data_list = ['dev.txt']
 oov_set = set()  # define a empty set
 code_dict = {}
 
@@ -71,19 +71,20 @@ load_dict_data()  # load 無瞎米字表
 
 for file_name in data_list:
     print("Processing: " + file_name)
-    datafram = pd.read_csv(data_path + file_name, sep=' ', names=["word", "Label"],
-                           skip_blank_lines=False)  # 讀取csv檔，並給定属性
-    datafram.insert(1, 'code_1', '#')
-    datafram.insert(2, 'code_2', '#')
-    datafram.insert(3, 'code_3', '#')
-    datafram.insert(4, 'code_4', '#')
+    dataframe = pd.read_csv(data_path + file_name, sep=' ', names=["word", "Label"],
+                            skip_blank_lines=False)  # 讀取csv檔，並給定属性
+    dataframe["Label"] = dataframe["Label"].str.replace("_", "-") #修改Labe的"_"改成"-"，符合ConllEval的格式
+    dataframe.insert(1, 'code_1', '#')
+    dataframe.insert(2, 'code_2', '#')
+    dataframe.insert(3, 'code_3', '#')
+    dataframe.insert(4, 'code_4', '#')
 
-    empty_line_num = list(datafram.loc[pd.isna(datafram["word"]), :].index)
+    empty_line_num = list(dataframe.loc[pd.isna(dataframe["word"]), :].index)
     empty_line_num_Correction(empty_line_num)
     # print(empty_line_num)
-    datafram = datafram[datafram['word'].notna()]
-    datafram = datafram.reset_index(drop=True)  # 重制index由0開始
-    word_list = datafram["word"]
+    dataframe = dataframe[dataframe['word'].notna()]
+    dataframe = dataframe.reset_index(drop=True)  # 重制index由0開始
+    word_list = dataframe["word"]
     # check has oov coed not in boshiamy wordlist
     # oov_check(word_list)
     # oov_df = pd.DataFrame(oov_set)
@@ -103,13 +104,13 @@ for file_name in data_list:
             j = 1
             for char in char_list:
                 if (j < 5):
-                    datafram.at[i, 'code_' + str(j)] = char
+                    dataframe.at[i, 'code_' + str(j)] = char
                     j = j + 1
                 else:
                     print("This word code is over 4 character: " + word + ": " + code)
         i = i + 1
     # print(datafram)
-    crf_format_data = crf_format_output(datafram, empty_line_num)
+    crf_format_data = crf_format_output(dataframe, empty_line_num)
     tool_box.write_file(result_path + "crf_" + file_name, crf_format_data)
 
 # print(word_check("////"))
