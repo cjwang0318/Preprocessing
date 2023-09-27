@@ -17,5 +17,6 @@ if __name__ == '__main__':
     df = pd.read_csv('./dataset/test.csv', header=None, names=["unique_id", "datetime", "y"])
     #print(df.head())
     df_return=insert_ds(df)
+    df_return = df_return.drop('datetime', axis=1) # where 1 is the axis number (0 for rows and 1 for columns.)
     df_return.to_csv("./dataset/result.csv", index=False)
 
